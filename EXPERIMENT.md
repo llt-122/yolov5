@@ -12,17 +12,17 @@ at [docs/YOLOv5_COCO1000_experiment_report.pdf](docs/YOLOv5_COCO1000_experiment_
 All groups use `yolov5s.pt`, the same 1,000 images, CPU inference, batch size 4, and a maximum of 1,000 detections per
 image. The baseline is `imgsz=640`, `conf=0.25`, `IoU=0.45`, and augmented inference disabled.
 
-| Group | Changed setting | Precision | Recall | mAP50 | mAP50-95 | ms/image |
-| --- | --- | ---: | ---: | ---: | ---: | ---: |
-| A | Baseline | 0.6343 | 0.5275 | 0.6140 | 0.4434 | 81.4 |
-| S1 | `imgsz=512` | 0.6395 | 0.5110 | 0.6055 | 0.4397 | 54.6 |
-| S2 | `imgsz=768` | 0.6444 | 0.5362 | 0.6188 | 0.4450 | 122.7 |
-| S3 | `conf=0.15` | 0.6410 | 0.5339 | 0.6090 | 0.4314 | 80.0 |
-| S4 | `conf=0.35` | 0.7210 | 0.4753 | 0.6185 | 0.4541 | 81.6 |
-| S5 | `IoU=0.35` | 0.6414 | 0.5246 | 0.6146 | 0.4432 | 79.0 |
-| S6 | `IoU=0.55` | 0.6194 | 0.5291 | 0.6102 | 0.4404 | 82.4 |
-| S7 | Augmented inference | 0.6356 | 0.5298 | 0.6102 | 0.4380 | 188.4 |
-| Z | Final combination | 0.7278 | 0.4759 | 0.6190 | 0.4557 | 115.4 |
+| Group | Changed setting     | Precision | Recall |  mAP50 | mAP50-95 | ms/image |
+| ----- | ------------------- | --------: | -----: | -----: | -------: | -------: |
+| A     | Baseline            |    0.6343 | 0.5275 | 0.6140 |   0.4434 |     81.4 |
+| S1    | `imgsz=512`         |    0.6395 | 0.5110 | 0.6055 |   0.4397 |     54.6 |
+| S2    | `imgsz=768`         |    0.6444 | 0.5362 | 0.6188 |   0.4450 |    122.7 |
+| S3    | `conf=0.15`         |    0.6410 | 0.5339 | 0.6090 |   0.4314 |     80.0 |
+| S4    | `conf=0.35`         |    0.7210 | 0.4753 | 0.6185 |   0.4541 |     81.6 |
+| S5    | `IoU=0.35`          |    0.6414 | 0.5246 | 0.6146 |   0.4432 |     79.0 |
+| S6    | `IoU=0.55`          |    0.6194 | 0.5291 | 0.6102 |   0.4404 |     82.4 |
+| S7    | Augmented inference |    0.6356 | 0.5298 | 0.6102 |   0.4380 |    188.4 |
+| Z     | Final combination   |    0.7278 | 0.4759 | 0.6190 |   0.4557 |    115.4 |
 
 The selected combination is:
 
