@@ -10,7 +10,6 @@ from pathlib import Path
 
 from PIL import Image
 
-
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_MANIFEST = ROOT / "datasets" / "coco1000" / "manifest.csv"
 DEFAULT_OUTPUT = ROOT / "datasets" / "coco1000" / "images" / "val"
