@@ -1,0 +1,1001 @@
+image_id,file_name,width,height,annotation_count,categories,source_url,sample_origin
+1503,000000001503.jpg,320,240,5,keyboard|laptop|mouse|tv,http://images.cocodataset.org/val2017/000000001503.jpg,original_coco300
+12120,000000012120.jpg,640,428,24,chair|person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000012120.jpg,original_coco300
+13348,000000013348.jpg,640,427,12,airplane|person|truck,http://images.cocodataset.org/val2017/000000013348.jpg,original_coco300
+13774,000000013774.jpg,640,480,2,frisbee|person,http://images.cocodataset.org/val2017/000000013774.jpg,original_coco300
+20107,000000020107.jpg,333,500,1,fire hydrant,http://images.cocodataset.org/val2017/000000020107.jpg,original_coco300
+21879,000000021879.jpg,640,427,7,person|surfboard,http://images.cocodataset.org/val2017/000000021879.jpg,original_coco300
+25228,000000025228.jpg,640,436,2,person|surfboard,http://images.cocodataset.org/val2017/000000025228.jpg,original_coco300
+25386,000000025386.jpg,427,640,8,chair|hot dog|person|sandwich,http://images.cocodataset.org/val2017/000000025386.jpg,original_coco300
+29393,000000029393.jpg,500,375,4,dog|orange,http://images.cocodataset.org/val2017/000000029393.jpg,original_coco300
+31322,000000031322.jpg,640,427,26,bird|boat|person,http://images.cocodataset.org/val2017/000000031322.jpg,original_coco300
+32334,000000032334.jpg,640,480,10,car|chair|person|wine glass,http://images.cocodataset.org/val2017/000000032334.jpg,original_coco300
+34873,000000034873.jpg,640,480,9,apple|bowl|chair|cup|dining table|sink|tv,http://images.cocodataset.org/val2017/000000034873.jpg,original_coco300
+39769,000000039769.jpg,640,480,6,bed|cat|couch|remote,http://images.cocodataset.org/val2017/000000039769.jpg,original_coco300
+45229,000000045229.jpg,640,480,22,book|bottle|bowl|oven|potted plant,http://images.cocodataset.org/val2017/000000045229.jpg,original_coco300
+46378,000000046378.jpg,640,360,2,bird|cat,http://images.cocodataset.org/val2017/000000046378.jpg,original_coco300
+46804,000000046804.jpg,640,480,1,sheep,http://images.cocodataset.org/val2017/000000046804.jpg,original_coco300
+47819,000000047819.jpg,500,375,4,horse|person|suitcase,http://images.cocodataset.org/val2017/000000047819.jpg,original_coco300
+47828,000000047828.jpg,640,318,13,boat|car|person,http://images.cocodataset.org/val2017/000000047828.jpg,original_coco300
+50828,000000050828.jpg,640,480,4,bed|chair|remote|suitcase,http://images.cocodataset.org/val2017/000000050828.jpg,original_coco300
+51326,000000051326.jpg,640,427,1,vase,http://images.cocodataset.org/val2017/000000051326.jpg,original_coco300
+54164,000000054164.jpg,640,427,2,person|surfboard,http://images.cocodataset.org/val2017/000000054164.jpg,original_coco300
+54592,000000054592.jpg,640,418,5,backpack|person|skis,http://images.cocodataset.org/val2017/000000054592.jpg,original_coco300
+55072,000000055072.jpg,640,427,1,giraffe,http://images.cocodataset.org/val2017/000000055072.jpg,original_coco300
+55950,000000055950.jpg,426,640,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000055950.jpg,original_coco300
+60090,000000060090.jpg,640,423,6,person|train,http://images.cocodataset.org/val2017/000000060090.jpg,original_coco300
+61471,000000061471.jpg,640,480,3,bottle|dog|toilet,http://images.cocodataset.org/val2017/000000061471.jpg,original_coco300
+63740,000000063740.jpg,640,480,11,banana|cup|keyboard|laptop|orange|person|tv,http://images.cocodataset.org/val2017/000000063740.jpg,original_coco300
+65350,000000065350.jpg,640,427,15,backpack|bicycle|car|person|skateboard,http://images.cocodataset.org/val2017/000000065350.jpg,original_coco300
+67896,000000067896.jpg,640,480,1,clock,http://images.cocodataset.org/val2017/000000067896.jpg,original_coco300
+69213,000000069213.jpg,640,427,8,motorcycle|person,http://images.cocodataset.org/val2017/000000069213.jpg,original_coco300
+73702,000000073702.jpg,464,640,6,backpack|handbag|person|umbrella,http://images.cocodataset.org/val2017/000000073702.jpg,original_coco300
+74256,000000074256.jpg,640,480,13,backpack|bus|cell phone|handbag|person|train,http://images.cocodataset.org/val2017/000000074256.jpg,original_coco300
+74457,000000074457.jpg,640,364,2,person|surfboard,http://images.cocodataset.org/val2017/000000074457.jpg,original_coco300
+76625,000000076625.jpg,640,480,15,cell phone|handbag|person|train,http://images.cocodataset.org/val2017/000000076625.jpg,original_coco300
+78032,000000078032.jpg,640,383,3,bench|boat,http://images.cocodataset.org/val2017/000000078032.jpg,original_coco300
+78426,000000078426.jpg,500,334,3,cat|cup|dining table,http://images.cocodataset.org/val2017/000000078426.jpg,original_coco300
+78959,000000078959.jpg,384,640,13,banana,http://images.cocodataset.org/val2017/000000078959.jpg,original_coco300
+79031,000000079031.jpg,640,427,2,person|surfboard,http://images.cocodataset.org/val2017/000000079031.jpg,original_coco300
+79408,000000079408.jpg,640,427,1,stop sign,http://images.cocodataset.org/val2017/000000079408.jpg,original_coco300
+80340,000000080340.jpg,640,427,20,chair|cup|dining table|person|suitcase|tie|wine glass,http://images.cocodataset.org/val2017/000000080340.jpg,original_coco300
+82085,000000082085.jpg,640,428,12,person|train,http://images.cocodataset.org/val2017/000000082085.jpg,original_coco300
+85089,000000085089.jpg,640,428,7,person|wine glass,http://images.cocodataset.org/val2017/000000085089.jpg,original_coco300
+85772,000000085772.jpg,640,427,4,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000085772.jpg,original_coco300
+87244,000000087244.jpg,375,500,3,bench|fire hydrant|person,http://images.cocodataset.org/val2017/000000087244.jpg,original_coco300
+89271,000000089271.jpg,640,524,1,cat,http://images.cocodataset.org/val2017/000000089271.jpg,original_coco300
+92660,000000092660.jpg,640,427,16,bottle|broccoli|cup|pizza,http://images.cocodataset.org/val2017/000000092660.jpg,original_coco300
+92939,000000092939.jpg,424,640,14,cake|chair|cup|knife|person|wine glass,http://images.cocodataset.org/val2017/000000092939.jpg,original_coco300
+97924,000000097924.jpg,600,400,6,horse|person|truck,http://images.cocodataset.org/val2017/000000097924.jpg,original_coco300
+99182,000000099182.jpg,500,334,3,bed|book|person,http://images.cocodataset.org/val2017/000000099182.jpg,original_coco300
+102331,000000102331.jpg,500,357,2,motorcycle|person,http://images.cocodataset.org/val2017/000000102331.jpg,original_coco300
+105923,000000105923.jpg,640,468,9,car|elephant|person,http://images.cocodataset.org/val2017/000000105923.jpg,original_coco300
+106912,000000106912.jpg,612,612,2,person|skateboard,http://images.cocodataset.org/val2017/000000106912.jpg,original_coco300
+113867,000000113867.jpg,633,640,1,clock,http://images.cocodataset.org/val2017/000000113867.jpg,original_coco300
+114884,000000114884.jpg,500,329,33,backpack|bus|handbag|person|suitcase,http://images.cocodataset.org/val2017/000000114884.jpg,original_coco300
+115885,000000115885.jpg,500,375,3,bed|cat|laptop,http://images.cocodataset.org/val2017/000000115885.jpg,original_coco300
+116589,000000116589.jpg,500,375,3,zebra,http://images.cocodataset.org/val2017/000000116589.jpg,original_coco300
+119995,000000119995.jpg,468,500,6,person|tennis racket,http://images.cocodataset.org/val2017/000000119995.jpg,original_coco300
+121506,000000121506.jpg,612,612,9,bench|car|chair|dining table|umbrella,http://images.cocodataset.org/val2017/000000121506.jpg,original_coco300
+128372,000000128372.jpg,640,427,16,bus|car|handbag|person,http://images.cocodataset.org/val2017/000000128372.jpg,original_coco300
+129945,000000129945.jpg,640,320,5,baseball bat|baseball glove|person,http://images.cocodataset.org/val2017/000000129945.jpg,original_coco300
+131379,000000131379.jpg,640,480,1,cake,http://images.cocodataset.org/val2017/000000131379.jpg,original_coco300
+132622,000000132622.jpg,640,512,1,bear,http://images.cocodataset.org/val2017/000000132622.jpg,original_coco300
+132796,000000132796.jpg,640,426,9,backpack|bench|chair|elephant|person,http://images.cocodataset.org/val2017/000000132796.jpg,original_coco300
+133087,000000133087.jpg,640,429,4,traffic light,http://images.cocodataset.org/val2017/000000133087.jpg,original_coco300
+133233,000000133233.jpg,640,361,13,boat,http://images.cocodataset.org/val2017/000000133233.jpg,original_coco300
+134112,000000134112.jpg,500,357,3,bed|dog|laptop,http://images.cocodataset.org/val2017/000000134112.jpg,original_coco300
+138856,000000138856.jpg,640,480,2,bowl|oven,http://images.cocodataset.org/val2017/000000138856.jpg,original_coco300
+139260,000000139260.jpg,640,388,6,banana|bowl|dining table|spoon,http://images.cocodataset.org/val2017/000000139260.jpg,original_coco300
+139883,000000139883.jpg,640,427,4,frisbee,http://images.cocodataset.org/val2017/000000139883.jpg,original_coco300
+140439,000000140439.jpg,428,640,9,dining table|potted plant|vase,http://images.cocodataset.org/val2017/000000140439.jpg,original_coco300
+140987,000000140987.jpg,425,640,18,chair|cup|dining table|person|pizza|potted plant,http://images.cocodataset.org/val2017/000000140987.jpg,original_coco300
+142585,000000142585.jpg,375,500,11,bus|car|motorcycle|person|traffic light|truck,http://images.cocodataset.org/val2017/000000142585.jpg,original_coco300
+145597,000000145597.jpg,640,480,19,bottle|cup|handbag|orange|person|wine glass,http://images.cocodataset.org/val2017/000000145597.jpg,original_coco300
+146457,000000146457.jpg,640,480,13,bottle|bowl|chair|dining table|person|pizza,http://images.cocodataset.org/val2017/000000146457.jpg,original_coco300
+146498,000000146498.jpg,640,480,6,car,http://images.cocodataset.org/val2017/000000146498.jpg,original_coco300
+147338,000000147338.jpg,480,640,6,car|fire hydrant|truck,http://images.cocodataset.org/val2017/000000147338.jpg,original_coco300
+147518,000000147518.jpg,480,640,4,book|sink|toilet,http://images.cocodataset.org/val2017/000000147518.jpg,original_coco300
+148662,000000148662.jpg,640,480,4,hot dog|person,http://images.cocodataset.org/val2017/000000148662.jpg,original_coco300
+154425,000000154425.jpg,640,425,2,kite|person,http://images.cocodataset.org/val2017/000000154425.jpg,original_coco300
+161781,000000161781.jpg,640,428,2,person|skis,http://images.cocodataset.org/val2017/000000161781.jpg,original_coco300
+162858,000000162858.jpg,428,640,17,bicycle|car|person|traffic light,http://images.cocodataset.org/val2017/000000162858.jpg,original_coco300
+163117,000000163117.jpg,376,500,27,backpack|handbag|kite|person,http://images.cocodataset.org/val2017/000000163117.jpg,original_coco300
+167067,000000167067.jpg,375,500,2,person|tie,http://images.cocodataset.org/val2017/000000167067.jpg,original_coco300
+172595,000000172595.jpg,640,360,15,backpack|book|bottle|cell phone|chair|handbag|keyboard|laptop|mouse|tv,http://images.cocodataset.org/val2017/000000172595.jpg,original_coco300
+173371,000000173371.jpg,612,612,10,cup|dining table|fork|knife|pizza,http://images.cocodataset.org/val2017/000000173371.jpg,original_coco300
+175438,000000175438.jpg,640,468,18,car|clock|potted plant|traffic light,http://images.cocodataset.org/val2017/000000175438.jpg,original_coco300
+176857,000000176857.jpg,500,375,16,cat|cell phone|handbag|person,http://images.cocodataset.org/val2017/000000176857.jpg,original_coco300
+177893,000000177893.jpg,640,428,3,bus|car,http://images.cocodataset.org/val2017/000000177893.jpg,original_coco300
+177934,000000177934.jpg,640,480,18,bottle|car|motorcycle|person|truck,http://images.cocodataset.org/val2017/000000177934.jpg,original_coco300
+181421,000000181421.jpg,640,446,5,boat|person|umbrella,http://images.cocodataset.org/val2017/000000181421.jpg,original_coco300
+182441,000000182441.jpg,640,399,26,bird|person,http://images.cocodataset.org/val2017/000000182441.jpg,original_coco300
+184791,000000184791.jpg,640,500,7,bowl|orange,http://images.cocodataset.org/val2017/000000184791.jpg,original_coco300
+186980,000000186980.jpg,457,640,14,bowl|chair|dining table|knife|microwave|oven|refrigerator|sink|spoon|wine glass,http://images.cocodataset.org/val2017/000000186980.jpg,original_coco300
+189078,000000189078.jpg,500,334,7,apple|banana|orange,http://images.cocodataset.org/val2017/000000189078.jpg,original_coco300
+195165,000000195165.jpg,640,478,17,bottle|bowl|sink|toilet,http://images.cocodataset.org/val2017/000000195165.jpg,original_coco300
+195918,000000195918.jpg,640,428,6,chair|keyboard|laptop|mouse|tv,http://images.cocodataset.org/val2017/000000195918.jpg,original_coco300
+196009,000000196009.jpg,640,480,3,carrot|spoon,http://images.cocodataset.org/val2017/000000196009.jpg,original_coco300
+197388,000000197388.jpg,640,392,9,person|skis,http://images.cocodataset.org/val2017/000000197388.jpg,original_coco300
+199055,000000199055.jpg,480,640,2,person|skateboard,http://images.cocodataset.org/val2017/000000199055.jpg,original_coco300
+199310,000000199310.jpg,427,640,2,person|tennis racket,http://images.cocodataset.org/val2017/000000199310.jpg,original_coco300
+201072,000000201072.jpg,411,640,5,person|tennis racket,http://images.cocodataset.org/val2017/000000201072.jpg,original_coco300
+201426,000000201426.jpg,640,490,9,cake|chair|cup|dining table|person|pizza,http://images.cocodataset.org/val2017/000000201426.jpg,original_coco300
+202445,000000202445.jpg,612,612,2,bed|cat,http://images.cocodataset.org/val2017/000000202445.jpg,original_coco300
+203629,000000203629.jpg,640,427,14,cell phone|cup|person,http://images.cocodataset.org/val2017/000000203629.jpg,original_coco300
+203639,000000203639.jpg,486,640,2,person|tie,http://images.cocodataset.org/val2017/000000203639.jpg,original_coco300
+204871,000000204871.jpg,612,612,11,bus|car|fire hydrant|person|traffic light,http://images.cocodataset.org/val2017/000000204871.jpg,original_coco300
+205647,000000205647.jpg,640,427,1,truck,http://images.cocodataset.org/val2017/000000205647.jpg,original_coco300
+210273,000000210273.jpg,640,428,41,bicycle|bus|car|person,http://images.cocodataset.org/val2017/000000210273.jpg,original_coco300
+210299,000000210299.jpg,640,480,2,bicycle|person,http://images.cocodataset.org/val2017/000000210299.jpg,original_coco300
+212166,000000212166.jpg,612,612,1,person,http://images.cocodataset.org/val2017/000000212166.jpg,original_coco300
+213593,000000213593.jpg,640,426,10,car|person|stop sign|traffic light,http://images.cocodataset.org/val2017/000000213593.jpg,original_coco300
+216419,000000216419.jpg,640,467,2,clock|traffic light,http://images.cocodataset.org/val2017/000000216419.jpg,original_coco300
+218424,000000218424.jpg,640,480,4,zebra,http://images.cocodataset.org/val2017/000000218424.jpg,original_coco300
+222094,000000222094.jpg,500,375,11,car|stop sign|truck,http://images.cocodataset.org/val2017/000000222094.jpg,original_coco300
+226147,000000226147.jpg,480,640,21,backpack|cell phone|chair|clock|cup|dining table|fork|handbag|knife|person|sandwich|spoon|vase,http://images.cocodataset.org/val2017/000000226147.jpg,original_coco300
+226417,000000226417.jpg,500,333,25,backpack|bicycle|car|fire hydrant|handbag|motorcycle|person|traffic light,http://images.cocodataset.org/val2017/000000226417.jpg,original_coco300
+227491,000000227491.jpg,640,480,6,bench|bottle|donut|person|sandwich,http://images.cocodataset.org/val2017/000000227491.jpg,original_coco300
+227511,000000227511.jpg,500,375,7,car|fire hydrant,http://images.cocodataset.org/val2017/000000227511.jpg,original_coco300
+228981,000000228981.jpg,640,480,2,cell phone,http://images.cocodataset.org/val2017/000000228981.jpg,original_coco300
+229358,000000229358.jpg,640,423,10,bottle|bowl|cell phone|cup|person|sink|tie|toothbrush,http://images.cocodataset.org/val2017/000000229358.jpg,original_coco300
+229753,000000229753.jpg,640,427,2,giraffe,http://images.cocodataset.org/val2017/000000229753.jpg,original_coco300
+229997,000000229997.jpg,640,427,6,bear|bird,http://images.cocodataset.org/val2017/000000229997.jpg,original_coco300
+231097,000000231097.jpg,640,480,11,bowl|broccoli|carrot|cup|dining table|fork,http://images.cocodataset.org/val2017/000000231097.jpg,original_coco300
+231879,000000231879.jpg,640,426,9,cake|chair|dining table|person,http://images.cocodataset.org/val2017/000000231879.jpg,original_coco300
+232649,000000232649.jpg,375,500,3,person|sink|toilet,http://images.cocodataset.org/val2017/000000232649.jpg,original_coco300
+232692,000000232692.jpg,640,425,9,person|surfboard,http://images.cocodataset.org/val2017/000000232692.jpg,original_coco300
+234366,000000234366.jpg,480,640,1,clock,http://images.cocodataset.org/val2017/000000234366.jpg,original_coco300
+236592,000000236592.jpg,640,480,2,dog|oven,http://images.cocodataset.org/val2017/000000236592.jpg,original_coco300
+236690,000000236690.jpg,640,399,1,bird,http://images.cocodataset.org/val2017/000000236690.jpg,original_coco300
+237984,000000237984.jpg,640,427,2,bench|chair,http://images.cocodataset.org/val2017/000000237984.jpg,original_coco300
+241297,000000241297.jpg,640,428,1,train,http://images.cocodataset.org/val2017/000000241297.jpg,original_coco300
+242060,000000242060.jpg,640,459,12,cake|cup|dining table|spoon,http://images.cocodataset.org/val2017/000000242060.jpg,original_coco300
+242724,000000242724.jpg,640,480,4,horse|person,http://images.cocodataset.org/val2017/000000242724.jpg,original_coco300
+245026,000000245026.jpg,640,424,4,book|cake|cup|person,http://images.cocodataset.org/val2017/000000245026.jpg,original_coco300
+246883,000000246883.jpg,640,480,4,person|surfboard,http://images.cocodataset.org/val2017/000000246883.jpg,original_coco300
+249786,000000249786.jpg,640,428,12,person|skis,http://images.cocodataset.org/val2017/000000249786.jpg,original_coco300
+251824,000000251824.jpg,500,375,3,book|person|scissors,http://images.cocodataset.org/val2017/000000251824.jpg,original_coco300
+253819,000000253819.jpg,640,427,2,person|skateboard,http://images.cocodataset.org/val2017/000000253819.jpg,original_coco300
+255718,000000255718.jpg,480,640,1,fire hydrant,http://images.cocodataset.org/val2017/000000255718.jpg,original_coco300
+255749,000000255749.jpg,640,424,5,bus|person,http://images.cocodataset.org/val2017/000000255749.jpg,original_coco300
+260261,000000260261.jpg,426,640,4,knife|person|truck,http://images.cocodataset.org/val2017/000000260261.jpg,original_coco300
+260470,000000260470.jpg,640,427,22,cake|car|donut|person,http://images.cocodataset.org/val2017/000000260470.jpg,original_coco300
+267940,000000267940.jpg,640,480,2,bench|boat,http://images.cocodataset.org/val2017/000000267940.jpg,original_coco300
+274411,000000274411.jpg,426,640,5,car|person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000274411.jpg,original_coco300
+274460,000000274460.jpg,640,454,20,backpack|bicycle|person|surfboard,http://images.cocodataset.org/val2017/000000274460.jpg,original_coco300
+277584,000000277584.jpg,640,480,2,bench|cat,http://images.cocodataset.org/val2017/000000277584.jpg,original_coco300
+279769,000000279769.jpg,640,480,2,banana|dining table,http://images.cocodataset.org/val2017/000000279769.jpg,original_coco300
+279887,000000279887.jpg,640,427,10,motorcycle,http://images.cocodataset.org/val2017/000000279887.jpg,original_coco300
+280779,000000280779.jpg,640,501,3,backpack|person|skis,http://images.cocodataset.org/val2017/000000280779.jpg,original_coco300
+281409,000000281409.jpg,640,427,19,baseball bat|baseball glove|chair|person,http://images.cocodataset.org/val2017/000000281409.jpg,original_coco300
+281447,000000281447.jpg,640,421,3,horse,http://images.cocodataset.org/val2017/000000281447.jpg,original_coco300
+281754,000000281754.jpg,419,640,4,handbag|person|umbrella,http://images.cocodataset.org/val2017/000000281754.jpg,original_coco300
+283412,000000283412.jpg,640,427,3,bed|cup|dog,http://images.cocodataset.org/val2017/000000283412.jpg,original_coco300
+283717,000000283717.jpg,640,480,3,microwave|oven,http://images.cocodataset.org/val2017/000000283717.jpg,original_coco300
+289417,000000289417.jpg,500,375,12,bench|person|skis,http://images.cocodataset.org/val2017/000000289417.jpg,original_coco300
+289938,000000289938.jpg,640,426,27,bottle|car|handbag|hot dog|person|umbrella,http://images.cocodataset.org/val2017/000000289938.jpg,original_coco300
+290771,000000290771.jpg,640,477,17,book|chair|couch|cup|dining table|tv,http://images.cocodataset.org/val2017/000000290771.jpg,original_coco300
+294163,000000294163.jpg,429,640,2,clock,http://images.cocodataset.org/val2017/000000294163.jpg,original_coco300
+294350,000000294350.jpg,640,425,13,banana|bottle|bowl|oven|person,http://images.cocodataset.org/val2017/000000294350.jpg,original_coco300
+295797,000000295797.jpg,427,640,2,clock,http://images.cocodataset.org/val2017/000000295797.jpg,original_coco300
+297562,000000297562.jpg,640,480,15,car|chair|person|scissors,http://images.cocodataset.org/val2017/000000297562.jpg,original_coco300
+300233,000000300233.jpg,640,489,4,bottle|bowl|spoon,http://images.cocodataset.org/val2017/000000300233.jpg,original_coco300
+304817,000000304817.jpg,640,480,1,snowboard,http://images.cocodataset.org/val2017/000000304817.jpg,original_coco300
+306700,000000306700.jpg,480,640,4,dining table|fork|person|pizza,http://images.cocodataset.org/val2017/000000306700.jpg,original_coco300
+306893,000000306893.jpg,500,368,21,fire hydrant|motorcycle|person|traffic light|train,http://images.cocodataset.org/val2017/000000306893.jpg,original_coco300
+307658,000000307658.jpg,589,640,1,bear,http://images.cocodataset.org/val2017/000000307658.jpg,original_coco300
+308394,000000308394.jpg,640,428,4,bench|handbag|person|umbrella,http://images.cocodataset.org/val2017/000000308394.jpg,original_coco300
+308793,000000308793.jpg,640,480,4,backpack|person|skis,http://images.cocodataset.org/val2017/000000308793.jpg,original_coco300
+311295,000000311295.jpg,640,427,10,giraffe|zebra,http://images.cocodataset.org/val2017/000000311295.jpg,original_coco300
+314251,000000314251.jpg,640,480,21,car|motorcycle|person,http://images.cocodataset.org/val2017/000000314251.jpg,original_coco300
+315219,000000315219.jpg,333,500,1,hair drier,http://images.cocodataset.org/val2017/000000315219.jpg,original_coco300
+318080,000000318080.jpg,640,480,2,bear,http://images.cocodataset.org/val2017/000000318080.jpg,original_coco300
+318114,000000318114.jpg,385,308,6,bowl|cake|cup|dining table|fork|orange,http://images.cocodataset.org/val2017/000000318114.jpg,original_coco300
+321790,000000321790.jpg,640,427,2,person|tennis racket,http://images.cocodataset.org/val2017/000000321790.jpg,original_coco300
+322574,000000322574.jpg,640,480,4,bowl|cup|hot dog|sandwich,http://images.cocodataset.org/val2017/000000322574.jpg,original_coco300
+324258,000000324258.jpg,640,480,21,book|bottle|couch|laptop|person|remote,http://images.cocodataset.org/val2017/000000324258.jpg,original_coco300
+326174,000000326174.jpg,640,480,12,person|surfboard,http://images.cocodataset.org/val2017/000000326174.jpg,original_coco300
+326248,000000326248.jpg,640,427,19,chair|person|tennis racket|umbrella,http://images.cocodataset.org/val2017/000000326248.jpg,original_coco300
+328030,000000328030.jpg,425,640,5,teddy bear,http://images.cocodataset.org/val2017/000000328030.jpg,original_coco300
+328238,000000328238.jpg,640,426,13,backpack|bench|chair|frisbee|person,http://images.cocodataset.org/val2017/000000328238.jpg,original_coco300
+329219,000000329219.jpg,640,427,21,cup|dog|fork|knife|person|sink|spoon,http://images.cocodataset.org/val2017/000000329219.jpg,original_coco300
+330369,000000330369.jpg,500,335,4,bird|boat|person,http://images.cocodataset.org/val2017/000000330369.jpg,original_coco300
+332351,000000332351.jpg,640,426,21,person|surfboard,http://images.cocodataset.org/val2017/000000332351.jpg,original_coco300
+333772,000000333772.jpg,500,375,8,cat|chair|cup|keyboard|mouse|tv,http://images.cocodataset.org/val2017/000000333772.jpg,original_coco300
+334006,000000334006.jpg,640,426,5,car|person|stop sign|truck,http://images.cocodataset.org/val2017/000000334006.jpg,original_coco300
+336587,000000336587.jpg,640,480,2,stop sign|truck,http://images.cocodataset.org/val2017/000000336587.jpg,original_coco300
+338625,000000338625.jpg,640,480,14,bicycle|bus|car|handbag|person,http://images.cocodataset.org/val2017/000000338625.jpg,original_coco300
+340015,000000340015.jpg,640,480,2,dining table|pizza,http://images.cocodataset.org/val2017/000000340015.jpg,original_coco300
+340451,000000340451.jpg,640,424,2,bench|person,http://images.cocodataset.org/val2017/000000340451.jpg,original_coco300
+345941,000000345941.jpg,640,640,3,person|spoon,http://images.cocodataset.org/val2017/000000345941.jpg,original_coco300
+352491,000000352491.jpg,640,480,6,person|train,http://images.cocodataset.org/val2017/000000352491.jpg,original_coco300
+354307,000000354307.jpg,500,375,1,person,http://images.cocodataset.org/val2017/000000354307.jpg,original_coco300
+356248,000000356248.jpg,478,640,22,bottle|bowl|chair|cup|dining table|person|potted plant|spoon,http://images.cocodataset.org/val2017/000000356248.jpg,original_coco300
+357238,000000357238.jpg,427,640,2,kite|person,http://images.cocodataset.org/val2017/000000357238.jpg,original_coco300
+361268,000000361268.jpg,640,480,1,cow,http://images.cocodataset.org/val2017/000000361268.jpg,original_coco300
+363188,000000363188.jpg,640,425,18,backpack|bottle|car|cell phone|person,http://images.cocodataset.org/val2017/000000363188.jpg,original_coco300
+369675,000000369675.jpg,640,429,8,clock|person|train,http://images.cocodataset.org/val2017/000000369675.jpg,original_coco300
+370042,000000370042.jpg,640,356,13,vase,http://images.cocodataset.org/val2017/000000370042.jpg,original_coco300
+377239,000000377239.jpg,640,427,6,bottle|handbag|person|umbrella,http://images.cocodataset.org/val2017/000000377239.jpg,original_coco300
+377368,000000377368.jpg,640,481,9,bench|cake|cup|dining table|handbag|person,http://images.cocodataset.org/val2017/000000377368.jpg,original_coco300
+377588,000000377588.jpg,640,427,10,baseball bat|baseball glove|person,http://images.cocodataset.org/val2017/000000377588.jpg,original_coco300
+377814,000000377814.jpg,640,480,6,donut,http://images.cocodataset.org/val2017/000000377814.jpg,original_coco300
+378454,000000378454.jpg,427,640,2,frisbee|person,http://images.cocodataset.org/val2017/000000378454.jpg,original_coco300
+382125,000000382125.jpg,640,480,27,chair|cup|dining table|person|pizza,http://images.cocodataset.org/val2017/000000382125.jpg,original_coco300
+383676,000000383676.jpg,640,480,2,giraffe,http://images.cocodataset.org/val2017/000000383676.jpg,original_coco300
+384670,000000384670.jpg,640,480,4,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000384670.jpg,original_coco300
+386134,000000386134.jpg,612,612,1,broccoli,http://images.cocodataset.org/val2017/000000386134.jpg,original_coco300
+387098,000000387098.jpg,640,480,24,book|bottle|cup|keyboard|laptop|mouse|remote|spoon|tv,http://images.cocodataset.org/val2017/000000387098.jpg,original_coco300
+389381,000000389381.jpg,640,543,6,apple|bowl|broccoli|carrot|dining table,http://images.cocodataset.org/val2017/000000389381.jpg,original_coco300
+390555,000000390555.jpg,640,435,25,handbag|person|tie,http://images.cocodataset.org/val2017/000000390555.jpg,original_coco300
+392818,000000392818.jpg,500,451,1,dog,http://images.cocodataset.org/val2017/000000392818.jpg,original_coco300
+394677,000000394677.jpg,500,375,12,cell phone|couch|handbag|person,http://images.cocodataset.org/val2017/000000394677.jpg,original_coco300
+396205,000000396205.jpg,425,640,2,cow,http://images.cocodataset.org/val2017/000000396205.jpg,original_coco300
+397303,000000397303.jpg,640,480,38,chair|dining table|handbag|laptop|person|tie,http://images.cocodataset.org/val2017/000000397303.jpg,original_coco300
+397639,000000397639.jpg,640,480,2,sheep,http://images.cocodataset.org/val2017/000000397639.jpg,original_coco300
+399560,000000399560.jpg,640,478,2,cat|laptop,http://images.cocodataset.org/val2017/000000399560.jpg,original_coco300
+399655,000000399655.jpg,500,375,2,couch|dog,http://images.cocodataset.org/val2017/000000399655.jpg,original_coco300
+403122,000000403122.jpg,427,640,16,chair|person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000403122.jpg,original_coco300
+404191,000000404191.jpg,375,500,1,refrigerator,http://images.cocodataset.org/val2017/000000404191.jpg,original_coco300
+404484,000000404484.jpg,320,240,5,dog|person|potted plant|teddy bear|tv,http://images.cocodataset.org/val2017/000000404484.jpg,original_coco300
+406570,000000406570.jpg,427,640,7,apple|orange,http://images.cocodataset.org/val2017/000000406570.jpg,original_coco300
+407646,000000407646.jpg,500,400,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000407646.jpg,original_coco300
+409542,000000409542.jpg,428,640,8,clock|person,http://images.cocodataset.org/val2017/000000409542.jpg,original_coco300
+410456,000000410456.jpg,640,480,11,person|surfboard,http://images.cocodataset.org/val2017/000000410456.jpg,original_coco300
+414034,000000414034.jpg,640,480,5,bed|bottle|cup|person|remote,http://images.cocodataset.org/val2017/000000414034.jpg,original_coco300
+416534,000000416534.jpg,640,355,18,book|chair|couch|potted plant|tv,http://images.cocodataset.org/val2017/000000416534.jpg,original_coco300
+425390,000000425390.jpg,500,375,2,cat|laptop,http://images.cocodataset.org/val2017/000000425390.jpg,original_coco300
+425906,000000425906.jpg,463,640,14,person|snowboard,http://images.cocodataset.org/val2017/000000425906.jpg,original_coco300
+427077,000000427077.jpg,344,500,2,baseball bat|person,http://images.cocodataset.org/val2017/000000427077.jpg,original_coco300
+427655,000000427655.jpg,427,640,14,book|bus|car|horse|person,http://images.cocodataset.org/val2017/000000427655.jpg,original_coco300
+429281,000000429281.jpg,480,640,18,apple|banana|orange,http://images.cocodataset.org/val2017/000000429281.jpg,original_coco300
+434996,000000434996.jpg,500,375,5,bed|cat|teddy bear,http://images.cocodataset.org/val2017/000000434996.jpg,original_coco300
+436617,000000436617.jpg,640,425,33,bench|chair|cup|dining table|handbag|person|wine glass,http://images.cocodataset.org/val2017/000000436617.jpg,original_coco300
+437392,000000437392.jpg,480,640,1,toilet,http://images.cocodataset.org/val2017/000000437392.jpg,original_coco300
+441247,000000441247.jpg,640,424,24,backpack|banana|bottle|chair|clock|couch|dining table|handbag|microwave|orange|oven|person|refrigerator|vase,http://images.cocodataset.org/val2017/000000441247.jpg,original_coco300
+442993,000000442993.jpg,427,640,15,boat|clock|potted plant,http://images.cocodataset.org/val2017/000000442993.jpg,original_coco300
+448263,000000448263.jpg,320,240,15,baseball glove|person|sports ball,http://images.cocodataset.org/val2017/000000448263.jpg,original_coco300
+455301,000000455301.jpg,640,481,4,bed|book|person,http://images.cocodataset.org/val2017/000000455301.jpg,original_coco300
+456143,000000456143.jpg,640,361,8,bowl|carrot|pizza|sandwich,http://images.cocodataset.org/val2017/000000456143.jpg,original_coco300
+458755,000000458755.jpg,640,480,6,person|sheep,http://images.cocodataset.org/val2017/000000458755.jpg,original_coco300
+460229,000000460229.jpg,383,640,4,stop sign|traffic light|truck,http://images.cocodataset.org/val2017/000000460229.jpg,original_coco300
+463037,000000463037.jpg,640,427,2,airplane|car,http://images.cocodataset.org/val2017/000000463037.jpg,original_coco300
+463199,000000463199.jpg,640,480,16,backpack|bus|cell phone|handbag|person,http://images.cocodataset.org/val2017/000000463199.jpg,original_coco300
+463522,000000463522.jpg,640,480,21,backpack|bicycle|dog|horse|person,http://images.cocodataset.org/val2017/000000463522.jpg,original_coco300
+463849,000000463849.jpg,564,640,24,boat|car|motorcycle|person,http://images.cocodataset.org/val2017/000000463849.jpg,original_coco300
+464786,000000464786.jpg,640,428,2,hot dog|person,http://images.cocodataset.org/val2017/000000464786.jpg,original_coco300
+465180,000000465180.jpg,640,426,12,elephant|person,http://images.cocodataset.org/val2017/000000465180.jpg,original_coco300
+467176,000000467176.jpg,640,428,29,book|chair|couch|cup|person|remote|tv,http://images.cocodataset.org/val2017/000000467176.jpg,original_coco300
+472046,000000472046.jpg,640,425,19,bowl|chair|couch|dining table|orange|oven|potted plant|sink|vase,http://images.cocodataset.org/val2017/000000472046.jpg,original_coco300
+474095,000000474095.jpg,333,500,2,person|toilet,http://images.cocodataset.org/val2017/000000474095.jpg,original_coco300
+474786,000000474786.jpg,375,500,6,bottle|sink|tv,http://images.cocodataset.org/val2017/000000474786.jpg,original_coco300
+476258,000000476258.jpg,640,367,2,person|skateboard,http://images.cocodataset.org/val2017/000000476258.jpg,original_coco300
+479953,000000479953.jpg,640,393,2,person|sports ball,http://images.cocodataset.org/val2017/000000479953.jpg,original_coco300
+480021,000000480021.jpg,640,471,9,car|motorcycle|person|tie,http://images.cocodataset.org/val2017/000000480021.jpg,original_coco300
+480944,000000480944.jpg,480,640,14,bus|car|stop sign|traffic light,http://images.cocodataset.org/val2017/000000480944.jpg,original_coco300
+482487,000000482487.jpg,480,640,2,clock,http://images.cocodataset.org/val2017/000000482487.jpg,original_coco300
+482585,000000482585.jpg,640,480,6,handbag|person|traffic light|train,http://images.cocodataset.org/val2017/000000482585.jpg,original_coco300
+482978,000000482978.jpg,640,360,2,chair|train,http://images.cocodataset.org/val2017/000000482978.jpg,original_coco300
+485895,000000485895.jpg,500,332,1,giraffe,http://images.cocodataset.org/val2017/000000485895.jpg,original_coco300
+488270,000000488270.jpg,640,426,1,airplane,http://images.cocodataset.org/val2017/000000488270.jpg,original_coco300
+488664,000000488664.jpg,629,489,3,car|train,http://images.cocodataset.org/val2017/000000488664.jpg,original_coco300
+488710,000000488710.jpg,500,400,1,person,http://images.cocodataset.org/val2017/000000488710.jpg,original_coco300
+491008,000000491008.jpg,640,427,25,boat|chair|dining table|knife|person|pizza|potted plant|tie,http://images.cocodataset.org/val2017/000000491008.jpg,original_coco300
+491757,000000491757.jpg,640,479,2,bed|cat,http://images.cocodataset.org/val2017/000000491757.jpg,original_coco300
+498709,000000498709.jpg,640,425,4,car|motorcycle,http://images.cocodataset.org/val2017/000000498709.jpg,original_coco300
+499313,000000499313.jpg,640,478,5,cup|dining table|pizza|wine glass,http://images.cocodataset.org/val2017/000000499313.jpg,original_coco300
+500613,000000500613.jpg,640,425,6,car|truck,http://images.cocodataset.org/val2017/000000500613.jpg,original_coco300
+507893,000000507893.jpg,427,640,2,sink|toilet,http://images.cocodataset.org/val2017/000000507893.jpg,original_coco300
+509258,000000509258.jpg,640,428,1,bench,http://images.cocodataset.org/val2017/000000509258.jpg,original_coco300
+511398,000000511398.jpg,640,427,1,dog,http://images.cocodataset.org/val2017/000000511398.jpg,original_coco300
+512248,000000512248.jpg,480,640,1,clock,http://images.cocodataset.org/val2017/000000512248.jpg,original_coco300
+512330,000000512330.jpg,426,640,14,bottle|refrigerator,http://images.cocodataset.org/val2017/000000512330.jpg,original_coco300
+519208,000000519208.jpg,640,406,2,elephant|person,http://images.cocodataset.org/val2017/000000519208.jpg,original_coco300
+519764,000000519764.jpg,500,375,3,cat|chair|laptop,http://images.cocodataset.org/val2017/000000519764.jpg,original_coco300
+521719,000000521719.jpg,427,640,8,kite|umbrella,http://images.cocodataset.org/val2017/000000521719.jpg,original_coco300
+521819,000000521819.jpg,640,480,14,car|frisbee|person,http://images.cocodataset.org/val2017/000000521819.jpg,original_coco300
+523957,000000523957.jpg,640,427,13,person|skateboard,http://images.cocodataset.org/val2017/000000523957.jpg,original_coco300
+526706,000000526706.jpg,640,427,4,cow,http://images.cocodataset.org/val2017/000000526706.jpg,original_coco300
+528862,000000528862.jpg,500,375,7,giraffe,http://images.cocodataset.org/val2017/000000528862.jpg,original_coco300
+529105,000000529105.jpg,640,480,1,horse,http://images.cocodataset.org/val2017/000000529105.jpg,original_coco300
+532071,000000532071.jpg,640,360,1,bear,http://images.cocodataset.org/val2017/000000532071.jpg,original_coco300
+532493,000000532493.jpg,640,408,2,person|surfboard,http://images.cocodataset.org/val2017/000000532493.jpg,original_coco300
+533145,000000533145.jpg,500,375,3,person|remote|tv,http://images.cocodataset.org/val2017/000000533145.jpg,original_coco300
+533958,000000533958.jpg,640,640,1,fork,http://images.cocodataset.org/val2017/000000533958.jpg,original_coco300
+535094,000000535094.jpg,640,427,3,cow|person,http://images.cocodataset.org/val2017/000000535094.jpg,original_coco300
+535578,000000535578.jpg,427,640,11,sheep,http://images.cocodataset.org/val2017/000000535578.jpg,original_coco300
+550084,000000550084.jpg,500,375,3,truck,http://images.cocodataset.org/val2017/000000550084.jpg,original_coco300
+551660,000000551660.jpg,424,640,12,apple|bowl|broccoli|cup|orange|spoon,http://images.cocodataset.org/val2017/000000551660.jpg,original_coco300
+560279,000000560279.jpg,612,612,2,bottle|toilet,http://images.cocodataset.org/val2017/000000560279.jpg,original_coco300
+561256,000000561256.jpg,640,480,3,person|sink,http://images.cocodataset.org/val2017/000000561256.jpg,original_coco300
+562443,000000562443.jpg,640,480,1,zebra,http://images.cocodataset.org/val2017/000000562443.jpg,original_coco300
+562818,000000562818.jpg,640,480,23,backpack|person|skis|snowboard,http://images.cocodataset.org/val2017/000000562818.jpg,original_coco300
+563603,000000563603.jpg,459,640,4,giraffe,http://images.cocodataset.org/val2017/000000563603.jpg,original_coco300
+570539,000000570539.jpg,372,500,8,bus|handbag|person,http://images.cocodataset.org/val2017/000000570539.jpg,original_coco300
+572555,000000572555.jpg,640,425,4,traffic light|train,http://images.cocodataset.org/val2017/000000572555.jpg,original_coco300
+574297,000000574297.jpg,640,427,2,horse|person,http://images.cocodataset.org/val2017/000000574297.jpg,original_coco300
+576052,000000576052.jpg,640,427,2,horse|person,http://images.cocodataset.org/val2017/000000576052.jpg,original_coco300
+576955,000000576955.jpg,640,427,3,horse|person,http://images.cocodataset.org/val2017/000000576955.jpg,original_coco300
+578500,000000578500.jpg,640,290,14,chair|couch|dining table|potted plant|vase,http://images.cocodataset.org/val2017/000000578500.jpg,original_coco300
+578967,000000578967.jpg,640,469,1,train,http://images.cocodataset.org/val2017/000000578967.jpg,original_coco300
+556873,000000556873.jpg,427,640,1,cake,http://images.cocodataset.org/val2017/000000556873.jpg,coco1000_extension
+217060,000000217060.jpg,640,440,1,airplane,http://images.cocodataset.org/val2017/000000217060.jpg,coco1000_extension
+520910,000000520910.jpg,427,640,3,person|sink|toilet,http://images.cocodataset.org/val2017/000000520910.jpg,coco1000_extension
+423617,000000423617.jpg,640,480,12,bus|car|motorcycle|person,http://images.cocodataset.org/val2017/000000423617.jpg,coco1000_extension
+204186,000000204186.jpg,640,513,19,backpack|handbag|motorcycle|person,http://images.cocodataset.org/val2017/000000204186.jpg,coco1000_extension
+121242,000000121242.jpg,640,429,22,car|horse|person|truck,http://images.cocodataset.org/val2017/000000121242.jpg,coco1000_extension
+267351,000000267351.jpg,640,426,2,clock,http://images.cocodataset.org/val2017/000000267351.jpg,coco1000_extension
+20992,000000020992.jpg,500,333,2,hot dog|person,http://images.cocodataset.org/val2017/000000020992.jpg,coco1000_extension
+524108,000000524108.jpg,640,400,12,motorcycle,http://images.cocodataset.org/val2017/000000524108.jpg,coco1000_extension
+537672,000000537672.jpg,427,640,2,chair|refrigerator,http://images.cocodataset.org/val2017/000000537672.jpg,coco1000_extension
+150265,000000150265.jpg,480,640,8,fire hydrant|handbag|person,http://images.cocodataset.org/val2017/000000150265.jpg,coco1000_extension
+428111,000000428111.jpg,640,429,7,backpack|bicycle|person|skateboard,http://images.cocodataset.org/val2017/000000428111.jpg,coco1000_extension
+286907,000000286907.jpg,480,640,1,toilet,http://images.cocodataset.org/val2017/000000286907.jpg,coco1000_extension
+428454,000000428454.jpg,500,333,5,car|kite|person|snowboard,http://images.cocodataset.org/val2017/000000428454.jpg,coco1000_extension
+109313,000000109313.jpg,480,640,10,book|couch|cup|person|remote,http://images.cocodataset.org/val2017/000000109313.jpg,coco1000_extension
+71226,000000071226.jpg,640,426,6,bed|book|cat|dog,http://images.cocodataset.org/val2017/000000071226.jpg,coco1000_extension
+135890,000000135890.jpg,428,640,12,clock|person,http://images.cocodataset.org/val2017/000000135890.jpg,coco1000_extension
+488673,000000488673.jpg,480,640,15,bottle|bowl|cake|chair|cup|person|wine glass,http://images.cocodataset.org/val2017/000000488673.jpg,coco1000_extension
+270244,000000270244.jpg,640,428,1,zebra,http://images.cocodataset.org/val2017/000000270244.jpg,coco1000_extension
+19786,000000019786.jpg,500,375,6,couch|laptop|person|remote,http://images.cocodataset.org/val2017/000000019786.jpg,coco1000_extension
+54123,000000054123.jpg,640,428,6,zebra,http://images.cocodataset.org/val2017/000000054123.jpg,coco1000_extension
+385719,000000385719.jpg,640,421,17,book|keyboard|laptop|mouse|remote|tv,http://images.cocodataset.org/val2017/000000385719.jpg,coco1000_extension
+291791,000000291791.jpg,640,499,7,backpack|handbag|motorcycle|person,http://images.cocodataset.org/val2017/000000291791.jpg,coco1000_extension
+91406,000000091406.jpg,640,424,36,book|chair|dining table|knife|person|pizza|tv,http://images.cocodataset.org/val2017/000000091406.jpg,coco1000_extension
+578871,000000578871.jpg,480,640,11,bowl|chair|dining table|motorcycle|person|spoon,http://images.cocodataset.org/val2017/000000578871.jpg,coco1000_extension
+289702,000000289702.jpg,640,427,2,dog,http://images.cocodataset.org/val2017/000000289702.jpg,coco1000_extension
+520707,000000520707.jpg,640,480,21,handbag|person|suitcase|tv,http://images.cocodataset.org/val2017/000000520707.jpg,coco1000_extension
+327617,000000327617.jpg,379,640,2,person|tennis racket,http://images.cocodataset.org/val2017/000000327617.jpg,coco1000_extension
+153529,000000153529.jpg,480,640,17,backpack|handbag|person|suitcase,http://images.cocodataset.org/val2017/000000153529.jpg,coco1000_extension
+360564,000000360564.jpg,640,427,2,sink|toilet,http://images.cocodataset.org/val2017/000000360564.jpg,coco1000_extension
+574702,000000574702.jpg,333,500,18,motorcycle|person,http://images.cocodataset.org/val2017/000000574702.jpg,coco1000_extension
+45596,000000045596.jpg,408,640,12,bicycle|car|person|umbrella,http://images.cocodataset.org/val2017/000000045596.jpg,coco1000_extension
+183246,000000183246.jpg,500,400,18,car|person|traffic light|truck,http://images.cocodataset.org/val2017/000000183246.jpg,coco1000_extension
+260266,000000260266.jpg,479,640,8,car|traffic light,http://images.cocodataset.org/val2017/000000260266.jpg,coco1000_extension
+127092,000000127092.jpg,640,480,8,car|fire hydrant|handbag|person|potted plant|stop sign,http://images.cocodataset.org/val2017/000000127092.jpg,coco1000_extension
+558421,000000558421.jpg,640,427,14,bird|person|train,http://images.cocodataset.org/val2017/000000558421.jpg,coco1000_extension
+537964,000000537964.jpg,640,430,1,fire hydrant,http://images.cocodataset.org/val2017/000000537964.jpg,coco1000_extension
+368752,000000368752.jpg,480,640,9,bowl|cake|cup|dining table|person|spoon,http://images.cocodataset.org/val2017/000000368752.jpg,coco1000_extension
+190007,000000190007.jpg,640,381,2,person|surfboard,http://images.cocodataset.org/val2017/000000190007.jpg,coco1000_extension
+2592,000000002592.jpg,640,366,3,cup|dining table|knife,http://images.cocodataset.org/val2017/000000002592.jpg,coco1000_extension
+107554,000000107554.jpg,640,480,2,car|surfboard,http://images.cocodataset.org/val2017/000000107554.jpg,coco1000_extension
+407960,000000407960.jpg,640,426,3,bowl|cat|oven,http://images.cocodataset.org/val2017/000000407960.jpg,coco1000_extension
+494863,000000494863.jpg,640,480,2,train,http://images.cocodataset.org/val2017/000000494863.jpg,coco1000_extension
+15517,000000015517.jpg,640,480,13,bus,http://images.cocodataset.org/val2017/000000015517.jpg,coco1000_extension
+567432,000000567432.jpg,640,424,1,airplane,http://images.cocodataset.org/val2017/000000567432.jpg,coco1000_extension
+325306,000000325306.jpg,640,480,2,zebra,http://images.cocodataset.org/val2017/000000325306.jpg,coco1000_extension
+429718,000000429718.jpg,640,640,2,person|train,http://images.cocodataset.org/val2017/000000429718.jpg,coco1000_extension
+104424,000000104424.jpg,424,640,4,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000104424.jpg,coco1000_extension
+240940,000000240940.jpg,357,500,16,book|car|cat|refrigerator|tv,http://images.cocodataset.org/val2017/000000240940.jpg,coco1000_extension
+474344,000000474344.jpg,640,427,3,baseball bat|person,http://images.cocodataset.org/val2017/000000474344.jpg,coco1000_extension
+169356,000000169356.jpg,640,480,2,person|skateboard,http://images.cocodataset.org/val2017/000000169356.jpg,coco1000_extension
+224119,000000224119.jpg,640,425,12,person|tv,http://images.cocodataset.org/val2017/000000224119.jpg,coco1000_extension
+203294,000000203294.jpg,640,480,7,backpack|bus|handbag|person|truck,http://images.cocodataset.org/val2017/000000203294.jpg,coco1000_extension
+513580,000000513580.jpg,640,484,3,airplane|motorcycle|person,http://images.cocodataset.org/val2017/000000513580.jpg,coco1000_extension
+136772,000000136772.jpg,500,334,2,bowl|orange,http://images.cocodataset.org/val2017/000000136772.jpg,coco1000_extension
+362682,000000362682.jpg,640,427,5,bus|person|truck,http://images.cocodataset.org/val2017/000000362682.jpg,coco1000_extension
+378139,000000378139.jpg,640,427,17,bicycle|boat|car|person,http://images.cocodataset.org/val2017/000000378139.jpg,coco1000_extension
+516804,000000516804.jpg,480,640,2,bus,http://images.cocodataset.org/val2017/000000516804.jpg,coco1000_extension
+327592,000000327592.jpg,640,361,4,cake|clock|person|spoon,http://images.cocodataset.org/val2017/000000327592.jpg,coco1000_extension
+407298,000000407298.jpg,640,480,3,baseball glove|person|sports ball,http://images.cocodataset.org/val2017/000000407298.jpg,coco1000_extension
+494869,000000494869.jpg,427,640,9,bottle|bowl|dog|person|spoon,http://images.cocodataset.org/val2017/000000494869.jpg,coco1000_extension
+407518,000000407518.jpg,640,427,1,bird,http://images.cocodataset.org/val2017/000000407518.jpg,coco1000_extension
+537812,000000537812.jpg,640,480,2,chair|toilet,http://images.cocodataset.org/val2017/000000537812.jpg,coco1000_extension
+464689,000000464689.jpg,586,640,13,bottle,http://images.cocodataset.org/val2017/000000464689.jpg,coco1000_extension
+475365,000000475365.jpg,640,426,1,train,http://images.cocodataset.org/val2017/000000475365.jpg,coco1000_extension
+245915,000000245915.jpg,500,333,13,elephant,http://images.cocodataset.org/val2017/000000245915.jpg,coco1000_extension
+25603,000000025603.jpg,640,480,23,book|chair|cup|dining table|person|pizza,http://images.cocodataset.org/val2017/000000025603.jpg,coco1000_extension
+533855,000000533855.jpg,640,428,1,donut,http://images.cocodataset.org/val2017/000000533855.jpg,coco1000_extension
+353027,000000353027.jpg,640,424,3,person|pizza,http://images.cocodataset.org/val2017/000000353027.jpg,coco1000_extension
+537270,000000537270.jpg,640,480,8,cell phone|chair|cup|person,http://images.cocodataset.org/val2017/000000537270.jpg,coco1000_extension
+534605,000000534605.jpg,600,400,7,motorcycle|person,http://images.cocodataset.org/val2017/000000534605.jpg,coco1000_extension
+581317,000000581317.jpg,640,354,2,cell phone|person,http://images.cocodataset.org/val2017/000000581317.jpg,coco1000_extension
+79229,000000079229.jpg,640,426,3,dog|horse|person,http://images.cocodataset.org/val2017/000000079229.jpg,coco1000_extension
+283037,000000283037.jpg,427,640,2,car|traffic light,http://images.cocodataset.org/val2017/000000283037.jpg,coco1000_extension
+438876,000000438876.jpg,500,333,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000438876.jpg,coco1000_extension
+82986,000000082986.jpg,640,444,5,frisbee|handbag|person,http://images.cocodataset.org/val2017/000000082986.jpg,coco1000_extension
+190923,000000190923.jpg,375,500,16,handbag|person|traffic light|truck,http://images.cocodataset.org/val2017/000000190923.jpg,coco1000_extension
+181666,000000181666.jpg,640,425,16,person|sheep,http://images.cocodataset.org/val2017/000000181666.jpg,coco1000_extension
+6818,000000006818.jpg,427,640,1,toilet,http://images.cocodataset.org/val2017/000000006818.jpg,coco1000_extension
+85329,000000085329.jpg,640,449,2,person|tie,http://images.cocodataset.org/val2017/000000085329.jpg,coco1000_extension
+229849,000000229849.jpg,427,640,27,chair|person|tennis racket,http://images.cocodataset.org/val2017/000000229849.jpg,coco1000_extension
+376900,000000376900.jpg,480,640,14,person|tennis racket,http://images.cocodataset.org/val2017/000000376900.jpg,coco1000_extension
+785,000000000785.jpg,640,425,2,person|skis,http://images.cocodataset.org/val2017/000000000785.jpg,coco1000_extension
+392481,000000392481.jpg,640,427,1,airplane,http://images.cocodataset.org/val2017/000000392481.jpg,coco1000_extension
+236166,000000236166.jpg,426,640,2,dog|person,http://images.cocodataset.org/val2017/000000236166.jpg,coco1000_extension
+12670,000000012670.jpg,640,428,28,backpack|cell phone|handbag|person|teddy bear,http://images.cocodataset.org/val2017/000000012670.jpg,coco1000_extension
+189451,000000189451.jpg,640,427,2,cake|knife,http://images.cocodataset.org/val2017/000000189451.jpg,coco1000_extension
+31735,000000031735.jpg,640,480,5,book|couch|potted plant,http://images.cocodataset.org/val2017/000000031735.jpg,coco1000_extension
+131138,000000131138.jpg,640,480,11,cup|keyboard|laptop|mouse|person|potted plant|spoon|tv,http://images.cocodataset.org/val2017/000000131138.jpg,coco1000_extension
+566758,000000566758.jpg,640,480,2,bus|car,http://images.cocodataset.org/val2017/000000566758.jpg,coco1000_extension
+205324,000000205324.jpg,640,425,3,frisbee|person,http://images.cocodataset.org/val2017/000000205324.jpg,coco1000_extension
+492992,000000492992.jpg,427,640,2,bird|cow,http://images.cocodataset.org/val2017/000000492992.jpg,coco1000_extension
+559956,000000559956.jpg,640,480,9,bottle|handbag|person|sheep,http://images.cocodataset.org/val2017/000000559956.jpg,coco1000_extension
+223738,000000223738.jpg,634,640,7,baseball bat|person|sports ball,http://images.cocodataset.org/val2017/000000223738.jpg,coco1000_extension
+259382,000000259382.jpg,640,480,1,giraffe,http://images.cocodataset.org/val2017/000000259382.jpg,coco1000_extension
+389109,000000389109.jpg,427,640,17,cell phone|chair|dining table|person|pizza,http://images.cocodataset.org/val2017/000000389109.jpg,coco1000_extension
+163951,000000163951.jpg,427,640,2,banana|chair,http://images.cocodataset.org/val2017/000000163951.jpg,coco1000_extension
+325838,000000325838.jpg,640,480,18,cell phone|chair|keyboard|laptop|mouse|person,http://images.cocodataset.org/val2017/000000325838.jpg,coco1000_extension
+384808,000000384808.jpg,375,500,7,bottle|cell phone|person|sink|toilet,http://images.cocodataset.org/val2017/000000384808.jpg,coco1000_extension
+432898,000000432898.jpg,500,500,35,car|kite|person|truck,http://images.cocodataset.org/val2017/000000432898.jpg,coco1000_extension
+375015,000000375015.jpg,640,404,1,bear,http://images.cocodataset.org/val2017/000000375015.jpg,coco1000_extension
+488736,000000488736.jpg,640,480,2,clock,http://images.cocodataset.org/val2017/000000488736.jpg,coco1000_extension
+500049,000000500049.jpg,640,426,1,airplane,http://images.cocodataset.org/val2017/000000500049.jpg,coco1000_extension
+166277,000000166277.jpg,480,640,4,cat|cup,http://images.cocodataset.org/val2017/000000166277.jpg,coco1000_extension
+11760,000000011760.jpg,640,425,3,zebra,http://images.cocodataset.org/val2017/000000011760.jpg,coco1000_extension
+472298,000000472298.jpg,640,387,3,boat|person,http://images.cocodataset.org/val2017/000000472298.jpg,coco1000_extension
+26926,000000026926.jpg,423,640,3,car|fire hydrant,http://images.cocodataset.org/val2017/000000026926.jpg,coco1000_extension
+205542,000000205542.jpg,480,640,1,teddy bear,http://images.cocodataset.org/val2017/000000205542.jpg,coco1000_extension
+579321,000000579321.jpg,640,498,2,dog|person,http://images.cocodataset.org/val2017/000000579321.jpg,coco1000_extension
+34257,000000034257.jpg,500,309,6,broccoli|carrot,http://images.cocodataset.org/val2017/000000034257.jpg,coco1000_extension
+172977,000000172977.jpg,640,486,1,zebra,http://images.cocodataset.org/val2017/000000172977.jpg,coco1000_extension
+435081,000000435081.jpg,500,500,62,bowl|cake|carrot|chair|cup|dining table|donut|fork|knife|pizza|sandwich|spoon|vase,http://images.cocodataset.org/val2017/000000435081.jpg,coco1000_extension
+498463,000000498463.jpg,640,480,2,microwave|refrigerator,http://images.cocodataset.org/val2017/000000498463.jpg,coco1000_extension
+121031,000000121031.jpg,640,451,8,horse|person,http://images.cocodataset.org/val2017/000000121031.jpg,coco1000_extension
+273711,000000273711.jpg,640,480,37,apple|bowl|carrot|chair|cup|dining table|orange|person|sandwich|spoon,http://images.cocodataset.org/val2017/000000273711.jpg,coco1000_extension
+173008,000000173008.jpg,640,480,18,banana|cake|cup|microwave|orange|oven|person|scissors|toaster,http://images.cocodataset.org/val2017/000000173008.jpg,coco1000_extension
+328117,000000328117.jpg,480,640,11,donut,http://images.cocodataset.org/val2017/000000328117.jpg,coco1000_extension
+549930,000000549930.jpg,640,558,21,person|umbrella,http://images.cocodataset.org/val2017/000000549930.jpg,coco1000_extension
+296317,000000296317.jpg,640,480,3,giraffe,http://images.cocodataset.org/val2017/000000296317.jpg,coco1000_extension
+186873,000000186873.jpg,612,612,10,boat|person,http://images.cocodataset.org/val2017/000000186873.jpg,coco1000_extension
+410428,000000410428.jpg,640,427,10,sheep,http://images.cocodataset.org/val2017/000000410428.jpg,coco1000_extension
+500477,000000500477.jpg,640,480,2,person|sheep,http://images.cocodataset.org/val2017/000000500477.jpg,coco1000_extension
+476215,000000476215.jpg,640,409,3,horse|person,http://images.cocodataset.org/val2017/000000476215.jpg,coco1000_extension
+466835,000000466835.jpg,480,640,1,banana,http://images.cocodataset.org/val2017/000000466835.jpg,coco1000_extension
+53626,000000053626.jpg,640,480,9,person|skis,http://images.cocodataset.org/val2017/000000053626.jpg,coco1000_extension
+374982,000000374982.jpg,375,500,13,chair|cup|dining table|person|pizza,http://images.cocodataset.org/val2017/000000374982.jpg,coco1000_extension
+57149,000000057149.jpg,640,427,6,bus|car|traffic light|train,http://images.cocodataset.org/val2017/000000057149.jpg,coco1000_extension
+571893,000000571893.jpg,640,428,17,book|clock|oven|vase,http://images.cocodataset.org/val2017/000000571893.jpg,coco1000_extension
+13201,000000013201.jpg,427,640,2,person|skateboard,http://images.cocodataset.org/val2017/000000013201.jpg,coco1000_extension
+402118,000000402118.jpg,640,428,2,person|snowboard,http://images.cocodataset.org/val2017/000000402118.jpg,coco1000_extension
+540928,000000540928.jpg,640,455,2,cat|chair,http://images.cocodataset.org/val2017/000000540928.jpg,coco1000_extension
+104612,000000104612.jpg,640,480,12,broccoli,http://images.cocodataset.org/val2017/000000104612.jpg,coco1000_extension
+125245,000000125245.jpg,500,331,1,broccoli,http://images.cocodataset.org/val2017/000000125245.jpg,coco1000_extension
+550714,000000550714.jpg,640,480,2,banana|person,http://images.cocodataset.org/val2017/000000550714.jpg,coco1000_extension
+492937,000000492937.jpg,612,612,3,bicycle|person|train,http://images.cocodataset.org/val2017/000000492937.jpg,coco1000_extension
+271471,000000271471.jpg,640,428,7,banana|person,http://images.cocodataset.org/val2017/000000271471.jpg,coco1000_extension
+504000,000000504000.jpg,640,243,15,airplane|person,http://images.cocodataset.org/val2017/000000504000.jpg,coco1000_extension
+281759,000000281759.jpg,640,427,12,person|truck|umbrella,http://images.cocodataset.org/val2017/000000281759.jpg,coco1000_extension
+97337,000000097337.jpg,500,375,9,chair|couch|dining table|person|tv,http://images.cocodataset.org/val2017/000000097337.jpg,coco1000_extension
+311303,000000311303.jpg,640,427,8,chair|cup|dining table|knife|person|sandwich,http://images.cocodataset.org/val2017/000000311303.jpg,coco1000_extension
+214539,000000214539.jpg,640,427,16,bench|person|sports ball,http://images.cocodataset.org/val2017/000000214539.jpg,coco1000_extension
+358195,000000358195.jpg,483,640,2,person|skateboard,http://images.cocodataset.org/val2017/000000358195.jpg,coco1000_extension
+151820,000000151820.jpg,640,427,26,bottle|chair|cup|dining table|handbag|person|spoon|wine glass,http://images.cocodataset.org/val2017/000000151820.jpg,coco1000_extension
+284698,000000284698.jpg,375,500,2,motorcycle|person,http://images.cocodataset.org/val2017/000000284698.jpg,coco1000_extension
+361919,000000361919.jpg,640,425,21,person|skis|snowboard,http://images.cocodataset.org/val2017/000000361919.jpg,coco1000_extension
+475064,000000475064.jpg,640,427,4,donut|person,http://images.cocodataset.org/val2017/000000475064.jpg,coco1000_extension
+187236,000000187236.jpg,640,480,4,cat|chair|couch,http://images.cocodataset.org/val2017/000000187236.jpg,coco1000_extension
+575500,000000575500.jpg,426,640,1,banana,http://images.cocodataset.org/val2017/000000575500.jpg,coco1000_extension
+130579,000000130579.jpg,388,640,2,baseball glove|person,http://images.cocodataset.org/val2017/000000130579.jpg,coco1000_extension
+251140,000000251140.jpg,375,500,5,bicycle|book|person,http://images.cocodataset.org/val2017/000000251140.jpg,coco1000_extension
+129322,000000129322.jpg,480,640,1,toilet,http://images.cocodataset.org/val2017/000000129322.jpg,coco1000_extension
+232538,000000232538.jpg,640,480,4,bench|car|train,http://images.cocodataset.org/val2017/000000232538.jpg,coco1000_extension
+205401,000000205401.jpg,640,408,4,airplane|boat|person,http://images.cocodataset.org/val2017/000000205401.jpg,coco1000_extension
+346703,000000346703.jpg,550,640,19,cake|couch|cup|person|spoon|wine glass,http://images.cocodataset.org/val2017/000000346703.jpg,coco1000_extension
+433204,000000433204.jpg,640,480,8,car|motorcycle|person,http://images.cocodataset.org/val2017/000000433204.jpg,coco1000_extension
+11197,000000011197.jpg,640,427,16,backpack|bicycle|car|person|traffic light,http://images.cocodataset.org/val2017/000000011197.jpg,coco1000_extension
+29984,000000029984.jpg,640,492,7,chair|person|umbrella,http://images.cocodataset.org/val2017/000000029984.jpg,coco1000_extension
+570736,000000570736.jpg,427,640,2,sink|toilet,http://images.cocodataset.org/val2017/000000570736.jpg,coco1000_extension
+239537,000000239537.jpg,640,436,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000239537.jpg,coco1000_extension
+176037,000000176037.jpg,640,431,15,backpack|bus|car|person|traffic light,http://images.cocodataset.org/val2017/000000176037.jpg,coco1000_extension
+242946,000000242946.jpg,640,480,41,bowl|carrot|chair|cup|dining table|person|spoon,http://images.cocodataset.org/val2017/000000242946.jpg,coco1000_extension
+45550,000000045550.jpg,640,480,10,bowl|clock|person|sandwich,http://images.cocodataset.org/val2017/000000045550.jpg,coco1000_extension
+414510,000000414510.jpg,480,640,13,backpack|bicycle|car|cell phone|handbag|person|truck,http://images.cocodataset.org/val2017/000000414510.jpg,coco1000_extension
+246522,000000246522.jpg,427,640,1,clock,http://images.cocodataset.org/val2017/000000246522.jpg,coco1000_extension
+450758,000000450758.jpg,640,479,7,giraffe,http://images.cocodataset.org/val2017/000000450758.jpg,coco1000_extension
+562059,000000562059.jpg,427,640,6,apple|bowl|cup|dining table|spoon,http://images.cocodataset.org/val2017/000000562059.jpg,coco1000_extension
+423519,000000423519.jpg,460,640,1,bus,http://images.cocodataset.org/val2017/000000423519.jpg,coco1000_extension
+303908,000000303908.jpg,640,427,6,bench|boat|car,http://images.cocodataset.org/val2017/000000303908.jpg,coco1000_extension
+420069,000000420069.jpg,640,457,16,baseball bat|chair|person|sports ball,http://images.cocodataset.org/val2017/000000420069.jpg,coco1000_extension
+107087,000000107087.jpg,640,427,3,car|cat|chair,http://images.cocodataset.org/val2017/000000107087.jpg,coco1000_extension
+519338,000000519338.jpg,640,426,1,train,http://images.cocodataset.org/val2017/000000519338.jpg,coco1000_extension
+365766,000000365766.jpg,640,480,3,microwave|oven|sink,http://images.cocodataset.org/val2017/000000365766.jpg,coco1000_extension
+225532,000000225532.jpg,500,375,8,car,http://images.cocodataset.org/val2017/000000225532.jpg,coco1000_extension
+402992,000000402992.jpg,640,480,10,cow,http://images.cocodataset.org/val2017/000000402992.jpg,coco1000_extension
+523229,000000523229.jpg,480,640,1,toilet,http://images.cocodataset.org/val2017/000000523229.jpg,coco1000_extension
+276434,000000276434.jpg,640,427,11,cake|dining table|knife|orange|person,http://images.cocodataset.org/val2017/000000276434.jpg,coco1000_extension
+110884,000000110884.jpg,640,640,3,bowl|sink|toilet,http://images.cocodataset.org/val2017/000000110884.jpg,coco1000_extension
+61747,000000061747.jpg,640,574,2,person|skis,http://images.cocodataset.org/val2017/000000061747.jpg,coco1000_extension
+38825,000000038825.jpg,640,427,2,zebra,http://images.cocodataset.org/val2017/000000038825.jpg,coco1000_extension
+82846,000000082846.jpg,640,454,3,bus|stop sign,http://images.cocodataset.org/val2017/000000082846.jpg,coco1000_extension
+508370,000000508370.jpg,427,640,6,bicycle|cup|person,http://images.cocodataset.org/val2017/000000508370.jpg,coco1000_extension
+473237,000000473237.jpg,640,426,3,chair|person|pizza,http://images.cocodataset.org/val2017/000000473237.jpg,coco1000_extension
+547816,000000547816.jpg,427,640,4,bottle|sink|toilet,http://images.cocodataset.org/val2017/000000547816.jpg,coco1000_extension
+43737,000000043737.jpg,480,640,6,car|clock,http://images.cocodataset.org/val2017/000000043737.jpg,coco1000_extension
+15335,000000015335.jpg,640,480,15,bowl|cell phone|couch|cup|person,http://images.cocodataset.org/val2017/000000015335.jpg,coco1000_extension
+104572,000000104572.jpg,640,419,6,sink|toilet,http://images.cocodataset.org/val2017/000000104572.jpg,coco1000_extension
+50844,000000050844.jpg,334,500,2,teddy bear,http://images.cocodataset.org/val2017/000000050844.jpg,coco1000_extension
+401446,000000401446.jpg,640,480,3,handbag|person|umbrella,http://images.cocodataset.org/val2017/000000401446.jpg,coco1000_extension
+156076,000000156076.jpg,640,478,19,bottle|bowl|cell phone|cup|dining table|fork|knife|person|pizza|spoon,http://images.cocodataset.org/val2017/000000156076.jpg,coco1000_extension
+394559,000000394559.jpg,426,640,2,person|tennis racket,http://images.cocodataset.org/val2017/000000394559.jpg,coco1000_extension
+393056,000000393056.jpg,640,480,2,person|surfboard,http://images.cocodataset.org/val2017/000000393056.jpg,coco1000_extension
+577539,000000577539.jpg,500,334,5,banana|bowl|person,http://images.cocodataset.org/val2017/000000577539.jpg,coco1000_extension
+312586,000000312586.jpg,640,428,3,bear,http://images.cocodataset.org/val2017/000000312586.jpg,coco1000_extension
+283520,000000283520.jpg,640,426,4,frisbee|person,http://images.cocodataset.org/val2017/000000283520.jpg,coco1000_extension
+163682,000000163682.jpg,427,640,3,chair|person|tie,http://images.cocodataset.org/val2017/000000163682.jpg,coco1000_extension
+515982,000000515982.jpg,640,426,5,baseball glove|person|sports ball,http://images.cocodataset.org/val2017/000000515982.jpg,coco1000_extension
+405205,000000405205.jpg,550,410,3,bus|truck,http://images.cocodataset.org/val2017/000000405205.jpg,coco1000_extension
+67180,000000067180.jpg,480,640,2,bench|person,http://images.cocodataset.org/val2017/000000067180.jpg,coco1000_extension
+484760,000000484760.jpg,640,426,1,clock,http://images.cocodataset.org/val2017/000000484760.jpg,coco1000_extension
+145591,000000145591.jpg,640,480,1,clock,http://images.cocodataset.org/val2017/000000145591.jpg,coco1000_extension
+568213,000000568213.jpg,500,325,3,frisbee|person,http://images.cocodataset.org/val2017/000000568213.jpg,coco1000_extension
+57244,000000057244.jpg,640,425,1,train,http://images.cocodataset.org/val2017/000000057244.jpg,coco1000_extension
+122745,000000122745.jpg,480,640,1,stop sign,http://images.cocodataset.org/val2017/000000122745.jpg,coco1000_extension
+302760,000000302760.jpg,500,375,3,bottle|sink,http://images.cocodataset.org/val2017/000000302760.jpg,coco1000_extension
+167902,000000167902.jpg,500,375,1,bird,http://images.cocodataset.org/val2017/000000167902.jpg,coco1000_extension
+87470,000000087470.jpg,640,470,19,cow|horse|person,http://images.cocodataset.org/val2017/000000087470.jpg,coco1000_extension
+317999,000000317999.jpg,612,612,4,bed|book|person,http://images.cocodataset.org/val2017/000000317999.jpg,coco1000_extension
+411530,000000411530.jpg,640,480,21,backpack|person|skis|snowboard,http://images.cocodataset.org/val2017/000000411530.jpg,coco1000_extension
+98261,000000098261.jpg,320,216,2,bird,http://images.cocodataset.org/val2017/000000098261.jpg,coco1000_extension
+51938,000000051938.jpg,640,480,13,person|skis,http://images.cocodataset.org/val2017/000000051938.jpg,coco1000_extension
+194716,000000194716.jpg,640,427,4,car|cell phone|person,http://images.cocodataset.org/val2017/000000194716.jpg,coco1000_extension
+422886,000000422886.jpg,640,640,3,couch|hot dog|person,http://images.cocodataset.org/val2017/000000422886.jpg,coco1000_extension
+52996,000000052996.jpg,640,426,23,backpack|book|bowl|cup|dining table|handbag|knife|oven|person|refrigerator,http://images.cocodataset.org/val2017/000000052996.jpg,coco1000_extension
+196843,000000196843.jpg,640,480,4,bicycle|bus,http://images.cocodataset.org/val2017/000000196843.jpg,coco1000_extension
+319935,000000319935.jpg,640,398,13,bed|book|chair|couch|dining table|potted plant|tv,http://images.cocodataset.org/val2017/000000319935.jpg,coco1000_extension
+6012,000000006012.jpg,640,531,2,banana,http://images.cocodataset.org/val2017/000000006012.jpg,coco1000_extension
+383339,000000383339.jpg,640,428,2,bird|person,http://images.cocodataset.org/val2017/000000383339.jpg,coco1000_extension
+415882,000000415882.jpg,544,640,2,bed|person,http://images.cocodataset.org/val2017/000000415882.jpg,coco1000_extension
+476704,000000476704.jpg,640,428,8,bench|bicycle|bus|car|truck,http://images.cocodataset.org/val2017/000000476704.jpg,coco1000_extension
+229747,000000229747.jpg,640,541,1,airplane,http://images.cocodataset.org/val2017/000000229747.jpg,coco1000_extension
+51598,000000051598.jpg,360,640,2,bottle|sink,http://images.cocodataset.org/val2017/000000051598.jpg,coco1000_extension
+444142,000000444142.jpg,427,640,13,chair|person|tennis racket,http://images.cocodataset.org/val2017/000000444142.jpg,coco1000_extension
+109916,000000109916.jpg,640,480,3,bowl|cake,http://images.cocodataset.org/val2017/000000109916.jpg,coco1000_extension
+51008,000000051008.jpg,640,480,2,cat|laptop,http://images.cocodataset.org/val2017/000000051008.jpg,coco1000_extension
+517832,000000517832.jpg,640,640,2,chair|dog,http://images.cocodataset.org/val2017/000000517832.jpg,coco1000_extension
+416256,000000416256.jpg,500,375,3,cat|keyboard,http://images.cocodataset.org/val2017/000000416256.jpg,coco1000_extension
+544811,000000544811.jpg,640,429,2,bird,http://images.cocodataset.org/val2017/000000544811.jpg,coco1000_extension
+273232,000000273232.jpg,640,425,16,dog|kite|person|surfboard,http://images.cocodataset.org/val2017/000000273232.jpg,coco1000_extension
+193429,000000193429.jpg,640,428,2,person|snowboard,http://images.cocodataset.org/val2017/000000193429.jpg,coco1000_extension
+345261,000000345261.jpg,585,640,2,giraffe,http://images.cocodataset.org/val2017/000000345261.jpg,coco1000_extension
+504439,000000504439.jpg,500,243,2,zebra,http://images.cocodataset.org/val2017/000000504439.jpg,coco1000_extension
+475572,000000475572.jpg,640,431,6,bench|person|potted plant|teddy bear|vase,http://images.cocodataset.org/val2017/000000475572.jpg,coco1000_extension
+24144,000000024144.jpg,640,480,1,pizza,http://images.cocodataset.org/val2017/000000024144.jpg,coco1000_extension
+308631,000000308631.jpg,640,426,13,backpack|motorcycle|person,http://images.cocodataset.org/val2017/000000308631.jpg,coco1000_extension
+474028,000000474028.jpg,640,427,14,person|sports ball,http://images.cocodataset.org/val2017/000000474028.jpg,coco1000_extension
+446574,000000446574.jpg,428,640,3,bottle|toilet,http://images.cocodataset.org/val2017/000000446574.jpg,coco1000_extension
+67213,000000067213.jpg,640,485,14,car|dog|person,http://images.cocodataset.org/val2017/000000067213.jpg,coco1000_extension
+259571,000000259571.jpg,500,281,15,bus|person|truck,http://images.cocodataset.org/val2017/000000259571.jpg,coco1000_extension
+451155,000000451155.jpg,640,480,3,bed|laptop|person,http://images.cocodataset.org/val2017/000000451155.jpg,coco1000_extension
+152771,000000152771.jpg,640,479,6,bicycle|car|fire hydrant,http://images.cocodataset.org/val2017/000000152771.jpg,coco1000_extension
+525155,000000525155.jpg,640,426,2,person|sheep,http://images.cocodataset.org/val2017/000000525155.jpg,coco1000_extension
+25139,000000025139.jpg,500,334,2,zebra,http://images.cocodataset.org/val2017/000000025139.jpg,coco1000_extension
+157213,000000157213.jpg,640,360,1,elephant,http://images.cocodataset.org/val2017/000000157213.jpg,coco1000_extension
+110042,000000110042.jpg,425,640,8,person|potted plant|toilet,http://images.cocodataset.org/val2017/000000110042.jpg,coco1000_extension
+434204,000000434204.jpg,500,333,9,backpack|bench|person|skateboard,http://images.cocodataset.org/val2017/000000434204.jpg,coco1000_extension
+133000,000000133000.jpg,640,427,3,person|train,http://images.cocodataset.org/val2017/000000133000.jpg,coco1000_extension
+222863,000000222863.jpg,640,427,1,cow,http://images.cocodataset.org/val2017/000000222863.jpg,coco1000_extension
+343453,000000343453.jpg,640,480,2,person|skis,http://images.cocodataset.org/val2017/000000343453.jpg,coco1000_extension
+318455,000000318455.jpg,640,480,15,cake|dining table|knife,http://images.cocodataset.org/val2017/000000318455.jpg,coco1000_extension
+447342,000000447342.jpg,640,416,13,bus|car|truck,http://images.cocodataset.org/val2017/000000447342.jpg,coco1000_extension
+341828,000000341828.jpg,612,612,3,cell phone|person|sandwich,http://images.cocodataset.org/val2017/000000341828.jpg,coco1000_extension
+312263,000000312263.jpg,527,640,1,clock,http://images.cocodataset.org/val2017/000000312263.jpg,coco1000_extension
+96825,000000096825.jpg,640,503,3,backpack|person|skis,http://images.cocodataset.org/val2017/000000096825.jpg,coco1000_extension
+338191,000000338191.jpg,635,640,9,fire hydrant,http://images.cocodataset.org/val2017/000000338191.jpg,coco1000_extension
+522156,000000522156.jpg,640,427,1,pizza,http://images.cocodataset.org/val2017/000000522156.jpg,coco1000_extension
+37689,000000037689.jpg,640,426,15,person|snowboard,http://images.cocodataset.org/val2017/000000037689.jpg,coco1000_extension
+343706,000000343706.jpg,640,496,2,cell phone|person,http://images.cocodataset.org/val2017/000000343706.jpg,coco1000_extension
+455937,000000455937.jpg,640,480,14,book|chair|clock|couch|cup|handbag|laptop|person|remote|suitcase|tv,http://images.cocodataset.org/val2017/000000455937.jpg,coco1000_extension
+115118,000000115118.jpg,640,427,1,train,http://images.cocodataset.org/val2017/000000115118.jpg,coco1000_extension
+569972,000000569972.jpg,640,574,2,person|surfboard,http://images.cocodataset.org/val2017/000000569972.jpg,coco1000_extension
+70774,000000070774.jpg,640,425,12,bicycle|bird|motorcycle,http://images.cocodataset.org/val2017/000000070774.jpg,coco1000_extension
+250901,000000250901.jpg,640,426,6,book|person|sandwich,http://images.cocodataset.org/val2017/000000250901.jpg,coco1000_extension
+33759,000000033759.jpg,640,457,5,baseball bat|car|person|sports ball|truck,http://images.cocodataset.org/val2017/000000033759.jpg,coco1000_extension
+194746,000000194746.jpg,500,375,2,oven|pizza,http://images.cocodataset.org/val2017/000000194746.jpg,coco1000_extension
+547519,000000547519.jpg,640,425,1,bear,http://images.cocodataset.org/val2017/000000547519.jpg,coco1000_extension
+540502,000000540502.jpg,640,427,20,apple|bowl|chair|dining table|microwave|orange|oven|potted plant|refrigerator|sink|spoon|toaster|vase,http://images.cocodataset.org/val2017/000000540502.jpg,coco1000_extension
+414673,000000414673.jpg,500,332,24,baseball bat|baseball glove|chair|person|sports ball,http://images.cocodataset.org/val2017/000000414673.jpg,coco1000_extension
+56350,000000056350.jpg,612,612,10,person|toilet,http://images.cocodataset.org/val2017/000000056350.jpg,coco1000_extension
+409198,000000409198.jpg,640,427,6,bench|frisbee|person,http://images.cocodataset.org/val2017/000000409198.jpg,coco1000_extension
+555005,000000555005.jpg,640,480,11,bed|book|dog,http://images.cocodataset.org/val2017/000000555005.jpg,coco1000_extension
+138954,000000138954.jpg,612,612,2,apple|dining table,http://images.cocodataset.org/val2017/000000138954.jpg,coco1000_extension
+556765,000000556765.jpg,640,428,1,elephant,http://images.cocodataset.org/val2017/000000556765.jpg,coco1000_extension
+22192,000000022192.jpg,640,426,3,bed|dog|handbag,http://images.cocodataset.org/val2017/000000022192.jpg,coco1000_extension
+319184,000000319184.jpg,500,294,9,frisbee|person,http://images.cocodataset.org/val2017/000000319184.jpg,coco1000_extension
+169996,000000169996.jpg,640,480,16,bicycle|car|person|traffic light|truck,http://images.cocodataset.org/val2017/000000169996.jpg,coco1000_extension
+287959,000000287959.jpg,640,480,1,sandwich,http://images.cocodataset.org/val2017/000000287959.jpg,coco1000_extension
+112626,000000112626.jpg,423,640,2,couch|suitcase,http://images.cocodataset.org/val2017/000000112626.jpg,coco1000_extension
+284279,000000284279.jpg,640,512,1,bird,http://images.cocodataset.org/val2017/000000284279.jpg,coco1000_extension
+141328,000000141328.jpg,640,480,15,bowl|broccoli|spoon,http://images.cocodataset.org/val2017/000000141328.jpg,coco1000_extension
+248980,000000248980.jpg,500,375,10,broccoli|orange,http://images.cocodataset.org/val2017/000000248980.jpg,coco1000_extension
+184762,000000184762.jpg,500,375,1,clock,http://images.cocodataset.org/val2017/000000184762.jpg,coco1000_extension
+41888,000000041888.jpg,640,480,3,bird,http://images.cocodataset.org/val2017/000000041888.jpg,coco1000_extension
+310200,000000310200.jpg,640,480,3,bowl|donut|spoon,http://images.cocodataset.org/val2017/000000310200.jpg,coco1000_extension
+557672,000000557672.jpg,640,433,4,person|umbrella,http://images.cocodataset.org/val2017/000000557672.jpg,coco1000_extension
+357888,000000357888.jpg,640,480,35,apple|bottle|bowl|clock|cup|kite|person|vase|wine glass,http://images.cocodataset.org/val2017/000000357888.jpg,coco1000_extension
+291664,000000291664.jpg,588,640,2,dog|fire hydrant,http://images.cocodataset.org/val2017/000000291664.jpg,coco1000_extension
+286182,000000286182.jpg,478,640,35,book|bottle|bowl|broccoli|carrot|chair|dining table|fork|person|spoon,http://images.cocodataset.org/val2017/000000286182.jpg,coco1000_extension
+280930,000000280930.jpg,640,425,4,bottle|oven|person|refrigerator,http://images.cocodataset.org/val2017/000000280930.jpg,coco1000_extension
+330818,000000330818.jpg,426,640,9,bottle|clock|oven|person,http://images.cocodataset.org/val2017/000000330818.jpg,coco1000_extension
+106389,000000106389.jpg,640,480,12,bed|book|cat|chair|scissors,http://images.cocodataset.org/val2017/000000106389.jpg,coco1000_extension
+278749,000000278749.jpg,500,333,17,car|handbag|person,http://images.cocodataset.org/val2017/000000278749.jpg,coco1000_extension
+90284,000000090284.jpg,640,639,2,person|tennis racket,http://images.cocodataset.org/val2017/000000090284.jpg,coco1000_extension
+208363,000000208363.jpg,640,480,32,chair|person|pizza,http://images.cocodataset.org/val2017/000000208363.jpg,coco1000_extension
+550471,000000550471.jpg,640,425,2,fork|orange,http://images.cocodataset.org/val2017/000000550471.jpg,coco1000_extension
+314264,000000314264.jpg,480,640,5,person|potted plant|vase,http://images.cocodataset.org/val2017/000000314264.jpg,coco1000_extension
+26941,000000026941.jpg,640,427,10,person|suitcase,http://images.cocodataset.org/val2017/000000026941.jpg,coco1000_extension
+211825,000000211825.jpg,640,480,6,book|cake|oven|person,http://images.cocodataset.org/val2017/000000211825.jpg,coco1000_extension
+18575,000000018575.jpg,640,480,8,bottle|bowl|dining table|knife|sandwich|wine glass,http://images.cocodataset.org/val2017/000000018575.jpg,coco1000_extension
+438907,000000438907.jpg,458,640,4,person|skateboard,http://images.cocodataset.org/val2017/000000438907.jpg,coco1000_extension
+39484,000000039484.jpg,640,437,35,airplane|car|chair|dining table|person|traffic light,http://images.cocodataset.org/val2017/000000039484.jpg,coco1000_extension
+68933,000000068933.jpg,500,313,3,zebra,http://images.cocodataset.org/val2017/000000068933.jpg,coco1000_extension
+448256,000000448256.jpg,640,426,6,boat|bottle|person|truck,http://images.cocodataset.org/val2017/000000448256.jpg,coco1000_extension
+333956,000000333956.jpg,428,640,2,bench|parking meter,http://images.cocodataset.org/val2017/000000333956.jpg,coco1000_extension
+129113,000000129113.jpg,640,480,2,dining table|spoon,http://images.cocodataset.org/val2017/000000129113.jpg,coco1000_extension
+348708,000000348708.jpg,383,640,3,banana|bowl|dining table,http://images.cocodataset.org/val2017/000000348708.jpg,coco1000_extension
+333237,000000333237.jpg,640,409,3,bed|chair,http://images.cocodataset.org/val2017/000000333237.jpg,coco1000_extension
+350054,000000350054.jpg,500,375,5,cat|teddy bear|tv,http://images.cocodataset.org/val2017/000000350054.jpg,coco1000_extension
+724,000000000724.jpg,375,500,4,car|stop sign|truck,http://images.cocodataset.org/val2017/000000000724.jpg,coco1000_extension
+56288,000000056288.jpg,640,480,3,keyboard|sandwich|tv,http://images.cocodataset.org/val2017/000000056288.jpg,coco1000_extension
+402433,000000402433.jpg,640,426,3,motorcycle|pizza,http://images.cocodataset.org/val2017/000000402433.jpg,coco1000_extension
+334977,000000334977.jpg,640,320,3,cell phone,http://images.cocodataset.org/val2017/000000334977.jpg,coco1000_extension
+139871,000000139871.jpg,640,427,1,airplane,http://images.cocodataset.org/val2017/000000139871.jpg,coco1000_extension
+441442,000000441442.jpg,600,400,4,chair|horse|person,http://images.cocodataset.org/val2017/000000441442.jpg,coco1000_extension
+207585,000000207585.jpg,640,480,6,teddy bear|tie,http://images.cocodataset.org/val2017/000000207585.jpg,coco1000_extension
+213255,000000213255.jpg,480,640,28,bottle|car|hot dog|person|sandwich|traffic light,http://images.cocodataset.org/val2017/000000213255.jpg,coco1000_extension
+287527,000000287527.jpg,640,640,3,person|tie,http://images.cocodataset.org/val2017/000000287527.jpg,coco1000_extension
+215114,000000215114.jpg,548,640,7,bottle|person|refrigerator,http://images.cocodataset.org/val2017/000000215114.jpg,coco1000_extension
+227478,000000227478.jpg,640,480,6,bench|handbag|person,http://images.cocodataset.org/val2017/000000227478.jpg,coco1000_extension
+133418,000000133418.jpg,640,427,2,person|tennis racket,http://images.cocodataset.org/val2017/000000133418.jpg,coco1000_extension
+424642,000000424642.jpg,500,375,7,bottle|frisbee|person,http://images.cocodataset.org/val2017/000000424642.jpg,coco1000_extension
+347335,000000347335.jpg,480,640,5,cup|dining table|fork|knife,http://images.cocodataset.org/val2017/000000347335.jpg,coco1000_extension
+561679,000000561679.jpg,640,480,1,car,http://images.cocodataset.org/val2017/000000561679.jpg,coco1000_extension
+128148,000000128148.jpg,640,428,22,book|chair|couch|dining table|potted plant|tv,http://images.cocodataset.org/val2017/000000128148.jpg,coco1000_extension
+7108,000000007108.jpg,640,426,5,elephant,http://images.cocodataset.org/val2017/000000007108.jpg,coco1000_extension
+438304,000000438304.jpg,464,640,5,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000438304.jpg,coco1000_extension
+17182,000000017182.jpg,640,428,8,apple|book|chair,http://images.cocodataset.org/val2017/000000017182.jpg,coco1000_extension
+501005,000000501005.jpg,640,396,5,baseball bat|baseball glove|person,http://images.cocodataset.org/val2017/000000501005.jpg,coco1000_extension
+292236,000000292236.jpg,332,500,7,person|suitcase|train,http://images.cocodataset.org/val2017/000000292236.jpg,coco1000_extension
+480122,000000480122.jpg,640,640,21,banana|bottle|bowl|chair|dining table|knife|oven|refrigerator|sink|spoon,http://images.cocodataset.org/val2017/000000480122.jpg,coco1000_extension
+498919,000000498919.jpg,432,324,23,apple|orange,http://images.cocodataset.org/val2017/000000498919.jpg,coco1000_extension
+189226,000000189226.jpg,640,427,1,fire hydrant,http://images.cocodataset.org/val2017/000000189226.jpg,coco1000_extension
+532530,000000532530.jpg,640,427,6,dog|person|traffic light,http://images.cocodataset.org/val2017/000000532530.jpg,coco1000_extension
+137106,000000137106.jpg,640,427,2,bed|person,http://images.cocodataset.org/val2017/000000137106.jpg,coco1000_extension
+493613,000000493613.jpg,640,425,1,skateboard,http://images.cocodataset.org/val2017/000000493613.jpg,coco1000_extension
+79144,000000079144.jpg,640,458,2,bear,http://images.cocodataset.org/val2017/000000079144.jpg,coco1000_extension
+505565,000000505565.jpg,640,424,4,bird,http://images.cocodataset.org/val2017/000000505565.jpg,coco1000_extension
+187362,000000187362.jpg,640,425,2,person|surfboard,http://images.cocodataset.org/val2017/000000187362.jpg,coco1000_extension
+150417,000000150417.jpg,640,480,12,bowl|cake|chair|cup|dining table|person|refrigerator,http://images.cocodataset.org/val2017/000000150417.jpg,coco1000_extension
+255912,000000255912.jpg,640,359,5,bottle|broccoli|dining table|sandwich,http://images.cocodataset.org/val2017/000000255912.jpg,coco1000_extension
+149375,000000149375.jpg,640,485,6,person|skateboard,http://images.cocodataset.org/val2017/000000149375.jpg,coco1000_extension
+274708,000000274708.jpg,612,612,7,person|skis,http://images.cocodataset.org/val2017/000000274708.jpg,coco1000_extension
+235399,000000235399.jpg,500,375,3,bed|dog|truck,http://images.cocodataset.org/val2017/000000235399.jpg,coco1000_extension
+281687,000000281687.jpg,500,375,16,car|cell phone|handbag|person,http://images.cocodataset.org/val2017/000000281687.jpg,coco1000_extension
+154213,000000154213.jpg,500,375,1,scissors,http://images.cocodataset.org/val2017/000000154213.jpg,coco1000_extension
+454798,000000454798.jpg,640,425,7,bus|horse|person|truck,http://images.cocodataset.org/val2017/000000454798.jpg,coco1000_extension
+263474,000000263474.jpg,479,640,1,toilet,http://images.cocodataset.org/val2017/000000263474.jpg,coco1000_extension
+441586,000000441586.jpg,640,425,10,bicycle|motorcycle|person|stop sign,http://images.cocodataset.org/val2017/000000441586.jpg,coco1000_extension
+470121,000000470121.jpg,640,480,13,bottle|bowl|cake|dining table,http://images.cocodataset.org/val2017/000000470121.jpg,coco1000_extension
+248752,000000248752.jpg,500,375,2,baseball bat|person,http://images.cocodataset.org/val2017/000000248752.jpg,coco1000_extension
+296634,000000296634.jpg,640,453,12,bowl|broccoli|carrot,http://images.cocodataset.org/val2017/000000296634.jpg,coco1000_extension
+31248,000000031248.jpg,500,333,21,book|bowl|chair|couch|potted plant,http://images.cocodataset.org/val2017/000000031248.jpg,coco1000_extension
+550322,000000550322.jpg,427,640,6,cup|dining table|scissors|spoon,http://images.cocodataset.org/val2017/000000550322.jpg,coco1000_extension
+64718,000000064718.jpg,640,464,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000064718.jpg,coco1000_extension
+350607,000000350607.jpg,640,427,1,bench,http://images.cocodataset.org/val2017/000000350607.jpg,coco1000_extension
+100489,000000100489.jpg,479,640,1,bird,http://images.cocodataset.org/val2017/000000100489.jpg,coco1000_extension
+26690,000000026690.jpg,427,640,15,person|refrigerator|skateboard,http://images.cocodataset.org/val2017/000000026690.jpg,coco1000_extension
+581615,000000581615.jpg,478,640,1,toilet,http://images.cocodataset.org/val2017/000000581615.jpg,coco1000_extension
+87875,000000087875.jpg,640,487,1,fire hydrant,http://images.cocodataset.org/val2017/000000087875.jpg,coco1000_extension
+150638,000000150638.jpg,640,469,18,bottle|cup|dining table|person,http://images.cocodataset.org/val2017/000000150638.jpg,coco1000_extension
+232563,000000232563.jpg,480,640,5,handbag|person|umbrella,http://images.cocodataset.org/val2017/000000232563.jpg,coco1000_extension
+203095,000000203095.jpg,640,480,5,apple|broccoli|carrot|oven,http://images.cocodataset.org/val2017/000000203095.jpg,coco1000_extension
+126110,000000126110.jpg,320,240,3,dog|person|truck,http://images.cocodataset.org/val2017/000000126110.jpg,coco1000_extension
+90891,000000090891.jpg,640,431,18,banana|person,http://images.cocodataset.org/val2017/000000090891.jpg,coco1000_extension
+394940,000000394940.jpg,426,640,4,cake|dining table|knife|person,http://images.cocodataset.org/val2017/000000394940.jpg,coco1000_extension
+270122,000000270122.jpg,640,427,2,person|surfboard,http://images.cocodataset.org/val2017/000000270122.jpg,coco1000_extension
+234607,000000234607.jpg,375,500,5,person|remote,http://images.cocodataset.org/val2017/000000234607.jpg,coco1000_extension
+498747,000000498747.jpg,640,480,11,bottle|cell phone|person,http://images.cocodataset.org/val2017/000000498747.jpg,coco1000_extension
+84431,000000084431.jpg,361,640,2,pizza|tv,http://images.cocodataset.org/val2017/000000084431.jpg,coco1000_extension
+394275,000000394275.jpg,640,393,10,bus|person,http://images.cocodataset.org/val2017/000000394275.jpg,coco1000_extension
+383337,000000383337.jpg,640,480,11,dining table|donut|person,http://images.cocodataset.org/val2017/000000383337.jpg,coco1000_extension
+546823,000000546823.jpg,640,480,25,bicycle|car|handbag|horse|person|umbrella,http://images.cocodataset.org/val2017/000000546823.jpg,coco1000_extension
+449661,000000449661.jpg,640,169,6,bed|chair|person|sink|tv,http://images.cocodataset.org/val2017/000000449661.jpg,coco1000_extension
+15751,000000015751.jpg,640,427,4,bird,http://images.cocodataset.org/val2017/000000015751.jpg,coco1000_extension
+347693,000000347693.jpg,640,427,2,bed,http://images.cocodataset.org/val2017/000000347693.jpg,coco1000_extension
+38576,000000038576.jpg,438,640,4,keyboard|mouse|tv,http://images.cocodataset.org/val2017/000000038576.jpg,coco1000_extension
+17115,000000017115.jpg,443,640,2,zebra,http://images.cocodataset.org/val2017/000000017115.jpg,coco1000_extension
+316666,000000316666.jpg,640,480,40,book|bottle|bowl|clock|cup|dining table|vase|wine glass,http://images.cocodataset.org/val2017/000000316666.jpg,coco1000_extension
+270677,000000270677.jpg,634,640,2,person|skateboard,http://images.cocodataset.org/val2017/000000270677.jpg,coco1000_extension
+57725,000000057725.jpg,640,480,2,clock,http://images.cocodataset.org/val2017/000000057725.jpg,coco1000_extension
+139077,000000139077.jpg,500,375,7,book|laptop|person|remote|tv,http://images.cocodataset.org/val2017/000000139077.jpg,coco1000_extension
+178618,000000178618.jpg,446,640,3,elephant,http://images.cocodataset.org/val2017/000000178618.jpg,coco1000_extension
+126107,000000126107.jpg,640,480,8,bird|boat|person,http://images.cocodataset.org/val2017/000000126107.jpg,coco1000_extension
+166166,000000166166.jpg,500,375,9,book|chair|dining table|remote|tv|vase,http://images.cocodataset.org/val2017/000000166166.jpg,coco1000_extension
+437239,000000437239.jpg,640,425,13,backpack|bench|car|frisbee|person,http://images.cocodataset.org/val2017/000000437239.jpg,coco1000_extension
+182021,000000182021.jpg,640,360,5,baseball bat|baseball glove|person,http://images.cocodataset.org/val2017/000000182021.jpg,coco1000_extension
+306582,000000306582.jpg,640,480,7,cow,http://images.cocodataset.org/val2017/000000306582.jpg,coco1000_extension
+173044,000000173044.jpg,359,640,1,clock,http://images.cocodataset.org/val2017/000000173044.jpg,coco1000_extension
+223188,000000223188.jpg,427,640,3,clock|cow|person,http://images.cocodataset.org/val2017/000000223188.jpg,coco1000_extension
+530624,000000530624.jpg,640,478,2,bed|dog,http://images.cocodataset.org/val2017/000000530624.jpg,coco1000_extension
+162415,000000162415.jpg,536,640,2,baseball glove|person,http://images.cocodataset.org/val2017/000000162415.jpg,coco1000_extension
+460160,000000460160.jpg,640,480,1,bird,http://images.cocodataset.org/val2017/000000460160.jpg,coco1000_extension
+209142,000000209142.jpg,640,425,13,bowl|broccoli|carrot|fork|knife,http://images.cocodataset.org/val2017/000000209142.jpg,coco1000_extension
+62692,000000062692.jpg,427,640,3,person|tennis racket,http://images.cocodataset.org/val2017/000000062692.jpg,coco1000_extension
+257478,000000257478.jpg,500,398,2,baseball glove|person,http://images.cocodataset.org/val2017/000000257478.jpg,coco1000_extension
+11149,000000011149.jpg,500,375,5,bicycle|motorcycle|person,http://images.cocodataset.org/val2017/000000011149.jpg,coco1000_extension
+482970,000000482970.jpg,640,360,2,laptop|mouse,http://images.cocodataset.org/val2017/000000482970.jpg,coco1000_extension
+491213,000000491213.jpg,640,480,8,car|motorcycle|person|traffic light|truck,http://images.cocodataset.org/val2017/000000491213.jpg,coco1000_extension
+426372,000000426372.jpg,640,427,5,car|motorcycle|truck,http://images.cocodataset.org/val2017/000000426372.jpg,coco1000_extension
+408774,000000408774.jpg,500,333,6,baseball glove|person,http://images.cocodataset.org/val2017/000000408774.jpg,coco1000_extension
+250758,000000250758.jpg,640,480,2,zebra,http://images.cocodataset.org/val2017/000000250758.jpg,coco1000_extension
+490413,000000490413.jpg,640,238,1,airplane,http://images.cocodataset.org/val2017/000000490413.jpg,coco1000_extension
+38118,000000038118.jpg,640,427,2,person|skis,http://images.cocodataset.org/val2017/000000038118.jpg,coco1000_extension
+26465,000000026465.jpg,500,375,6,cell phone|chair|keyboard|laptop|person|remote,http://images.cocodataset.org/val2017/000000026465.jpg,coco1000_extension
+313182,000000313182.jpg,640,424,14,bus|car|handbag|person,http://images.cocodataset.org/val2017/000000313182.jpg,coco1000_extension
+30675,000000030675.jpg,640,360,1,train,http://images.cocodataset.org/val2017/000000030675.jpg,coco1000_extension
+32887,000000032887.jpg,640,480,4,backpack|cell phone|person,http://images.cocodataset.org/val2017/000000032887.jpg,coco1000_extension
+240754,000000240754.jpg,640,427,3,cow,http://images.cocodataset.org/val2017/000000240754.jpg,coco1000_extension
+450559,000000450559.jpg,427,640,2,person|skateboard,http://images.cocodataset.org/val2017/000000450559.jpg,coco1000_extension
+250137,000000250137.jpg,480,640,14,cup|handbag|person|umbrella,http://images.cocodataset.org/val2017/000000250137.jpg,coco1000_extension
+49259,000000049259.jpg,427,640,1,person,http://images.cocodataset.org/val2017/000000049259.jpg,coco1000_extension
+546626,000000546626.jpg,300,400,4,bottle|cell phone|cup|dining table,http://images.cocodataset.org/val2017/000000546626.jpg,coco1000_extension
+263966,000000263966.jpg,640,424,3,horse|person|sheep,http://images.cocodataset.org/val2017/000000263966.jpg,coco1000_extension
+438774,000000438774.jpg,640,425,17,bottle|cake|chair|cup|dining table|microwave|person|refrigerator|sink|wine glass,http://images.cocodataset.org/val2017/000000438774.jpg,coco1000_extension
+453341,000000453341.jpg,640,480,7,cell phone|couch|keyboard|mouse|teddy bear|tv,http://images.cocodataset.org/val2017/000000453341.jpg,coco1000_extension
+453001,000000453001.jpg,640,480,10,bench|person|potted plant|suitcase,http://images.cocodataset.org/val2017/000000453001.jpg,coco1000_extension
+18737,000000018737.jpg,640,427,1,motorcycle,http://images.cocodataset.org/val2017/000000018737.jpg,coco1000_extension
+17899,000000017899.jpg,480,640,11,bird|cake|chair|couch|cup|dining table|hot dog|person|spoon,http://images.cocodataset.org/val2017/000000017899.jpg,coco1000_extension
+573094,000000573094.jpg,375,500,14,bicycle|book|chair|couch|potted plant|remote|tv,http://images.cocodataset.org/val2017/000000573094.jpg,coco1000_extension
+537053,000000537053.jpg,480,640,1,giraffe,http://images.cocodataset.org/val2017/000000537053.jpg,coco1000_extension
+134856,000000134856.jpg,640,480,6,horse|person,http://images.cocodataset.org/val2017/000000134856.jpg,coco1000_extension
+424135,000000424135.jpg,480,640,3,clock|person,http://images.cocodataset.org/val2017/000000424135.jpg,coco1000_extension
+93261,000000093261.jpg,500,375,4,kite|person,http://images.cocodataset.org/val2017/000000093261.jpg,coco1000_extension
+94751,000000094751.jpg,375,500,17,bench|car|person|traffic light,http://images.cocodataset.org/val2017/000000094751.jpg,coco1000_extension
+479248,000000479248.jpg,640,480,26,book|bottle|bowl|clock|cup|person|tv|vase,http://images.cocodataset.org/val2017/000000479248.jpg,coco1000_extension
+213035,000000213035.jpg,640,427,6,cell phone|person|wine glass,http://images.cocodataset.org/val2017/000000213035.jpg,coco1000_extension
+492968,000000492968.jpg,640,425,2,person|snowboard,http://images.cocodataset.org/val2017/000000492968.jpg,coco1000_extension
+273715,000000273715.jpg,500,373,5,person|skis,http://images.cocodataset.org/val2017/000000273715.jpg,coco1000_extension
+281414,000000281414.jpg,443,640,3,backpack|cell phone|person,http://images.cocodataset.org/val2017/000000281414.jpg,coco1000_extension
+1532,000000001532.jpg,640,480,8,car|truck,http://images.cocodataset.org/val2017/000000001532.jpg,coco1000_extension
+75456,000000075456.jpg,640,427,1,pizza,http://images.cocodataset.org/val2017/000000075456.jpg,coco1000_extension
+383606,000000383606.jpg,640,480,4,cup|person|sink,http://images.cocodataset.org/val2017/000000383606.jpg,coco1000_extension
+429530,000000429530.jpg,640,478,4,vase,http://images.cocodataset.org/val2017/000000429530.jpg,coco1000_extension
+453841,000000453841.jpg,500,339,15,car|fire hydrant|person|traffic light|truck,http://images.cocodataset.org/val2017/000000453841.jpg,coco1000_extension
+229216,000000229216.jpg,640,426,3,cell phone|person,http://images.cocodataset.org/val2017/000000229216.jpg,coco1000_extension
+46252,000000046252.jpg,640,480,5,baseball bat|baseball glove|person,http://images.cocodataset.org/val2017/000000046252.jpg,coco1000_extension
+477288,000000477288.jpg,480,640,15,person|umbrella,http://images.cocodataset.org/val2017/000000477288.jpg,coco1000_extension
+353180,000000353180.jpg,640,420,12,backpack|bus|person,http://images.cocodataset.org/val2017/000000353180.jpg,coco1000_extension
+64898,000000064898.jpg,640,427,4,person|surfboard,http://images.cocodataset.org/val2017/000000064898.jpg,coco1000_extension
+78823,000000078823.jpg,640,480,5,car|dog|potted plant,http://images.cocodataset.org/val2017/000000078823.jpg,coco1000_extension
+137576,000000137576.jpg,640,563,9,cow,http://images.cocodataset.org/val2017/000000137576.jpg,coco1000_extension
+162581,000000162581.jpg,480,640,2,person|tennis racket,http://images.cocodataset.org/val2017/000000162581.jpg,coco1000_extension
+350002,000000350002.jpg,427,640,2,hair drier|person,http://images.cocodataset.org/val2017/000000350002.jpg,coco1000_extension
+104669,000000104669.jpg,500,375,15,broccoli|carrot|dining table|fork|knife|orange,http://images.cocodataset.org/val2017/000000104669.jpg,coco1000_extension
+374551,000000374551.jpg,500,300,1,bird,http://images.cocodataset.org/val2017/000000374551.jpg,coco1000_extension
+147498,000000147498.jpg,640,524,22,bird,http://images.cocodataset.org/val2017/000000147498.jpg,coco1000_extension
+233370,000000233370.jpg,427,640,2,person|suitcase,http://images.cocodataset.org/val2017/000000233370.jpg,coco1000_extension
+325347,000000325347.jpg,640,359,7,backpack|chair|person|tennis racket,http://images.cocodataset.org/val2017/000000325347.jpg,coco1000_extension
+93353,000000093353.jpg,640,480,5,book|chair|hot dog|person,http://images.cocodataset.org/val2017/000000093353.jpg,coco1000_extension
+296231,000000296231.jpg,640,480,21,book|chair|clock|person|potted plant|tv|vase,http://images.cocodataset.org/val2017/000000296231.jpg,coco1000_extension
+106235,000000106235.jpg,640,480,10,chair|couch|dining table|potted plant|remote,http://images.cocodataset.org/val2017/000000106235.jpg,coco1000_extension
+149622,000000149622.jpg,640,453,2,bird,http://images.cocodataset.org/val2017/000000149622.jpg,coco1000_extension
+272416,000000272416.jpg,640,480,1,toilet,http://images.cocodataset.org/val2017/000000272416.jpg,coco1000_extension
+491464,000000491464.jpg,640,428,13,baseball bat|car|person|traffic light,http://images.cocodataset.org/val2017/000000491464.jpg,coco1000_extension
+159282,000000159282.jpg,640,426,2,potted plant|vase,http://images.cocodataset.org/val2017/000000159282.jpg,coco1000_extension
+399462,000000399462.jpg,300,451,4,kite|person,http://images.cocodataset.org/val2017/000000399462.jpg,coco1000_extension
+114871,000000114871.jpg,640,427,2,banana|dining table,http://images.cocodataset.org/val2017/000000114871.jpg,coco1000_extension
+13177,000000013177.jpg,640,427,3,bicycle|motorcycle|person,http://images.cocodataset.org/val2017/000000013177.jpg,coco1000_extension
+439593,000000439593.jpg,640,480,10,handbag|person|train,http://images.cocodataset.org/val2017/000000439593.jpg,coco1000_extension
+483999,000000483999.jpg,640,428,41,chair|cup|dining table|fork|knife|person|spoon|umbrella,http://images.cocodataset.org/val2017/000000483999.jpg,coco1000_extension
+244019,000000244019.jpg,640,431,1,fire hydrant,http://images.cocodataset.org/val2017/000000244019.jpg,coco1000_extension
+1584,000000001584.jpg,612,612,14,bus|person,http://images.cocodataset.org/val2017/000000001584.jpg,coco1000_extension
+327605,000000327605.jpg,640,480,3,person|skis,http://images.cocodataset.org/val2017/000000327605.jpg,coco1000_extension
+542127,000000542127.jpg,640,426,16,person|skis,http://images.cocodataset.org/val2017/000000542127.jpg,coco1000_extension
+297427,000000297427.jpg,580,640,4,donut|person,http://images.cocodataset.org/val2017/000000297427.jpg,coco1000_extension
+413552,000000413552.jpg,426,640,3,person|toothbrush,http://images.cocodataset.org/val2017/000000413552.jpg,coco1000_extension
+39551,000000039551.jpg,640,427,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000039551.jpg,coco1000_extension
+437110,000000437110.jpg,480,640,1,clock,http://images.cocodataset.org/val2017/000000437110.jpg,coco1000_extension
+397681,000000397681.jpg,640,640,28,bowl|cake|carrot|fork|orange|person,http://images.cocodataset.org/val2017/000000397681.jpg,coco1000_extension
+274272,000000274272.jpg,640,480,9,bus|car|person|traffic light,http://images.cocodataset.org/val2017/000000274272.jpg,coco1000_extension
+491497,000000491497.jpg,375,500,12,book|chair|couch|tv,http://images.cocodataset.org/val2017/000000491497.jpg,coco1000_extension
+6614,000000006614.jpg,500,396,2,apple|orange,http://images.cocodataset.org/val2017/000000006614.jpg,coco1000_extension
+308531,000000308531.jpg,359,640,3,bench|car|clock,http://images.cocodataset.org/val2017/000000308531.jpg,coco1000_extension
+344816,000000344816.jpg,640,427,1,train,http://images.cocodataset.org/val2017/000000344816.jpg,coco1000_extension
+133969,000000133969.jpg,640,427,16,baseball bat|baseball glove|bench|person,http://images.cocodataset.org/val2017/000000133969.jpg,coco1000_extension
+360960,000000360960.jpg,426,640,6,person|umbrella,http://images.cocodataset.org/val2017/000000360960.jpg,coco1000_extension
+193717,000000193717.jpg,521,640,12,car|fire hydrant|handbag|person|traffic light,http://images.cocodataset.org/val2017/000000193717.jpg,coco1000_extension
+122969,000000122969.jpg,500,333,2,zebra,http://images.cocodataset.org/val2017/000000122969.jpg,coco1000_extension
+408696,000000408696.jpg,640,480,5,person|toilet,http://images.cocodataset.org/val2017/000000408696.jpg,coco1000_extension
+332845,000000332845.jpg,640,480,4,bed|chair|laptop|person,http://images.cocodataset.org/val2017/000000332845.jpg,coco1000_extension
+36678,000000036678.jpg,640,361,6,boat|clock,http://images.cocodataset.org/val2017/000000036678.jpg,coco1000_extension
+279145,000000279145.jpg,640,480,9,bench|cat|potted plant,http://images.cocodataset.org/val2017/000000279145.jpg,coco1000_extension
+540932,000000540932.jpg,640,480,11,person|surfboard,http://images.cocodataset.org/val2017/000000540932.jpg,coco1000_extension
+324158,000000324158.jpg,500,334,15,car|dog|person|skateboard,http://images.cocodataset.org/val2017/000000324158.jpg,coco1000_extension
+548267,000000548267.jpg,640,480,13,sheep,http://images.cocodataset.org/val2017/000000548267.jpg,coco1000_extension
+51712,000000051712.jpg,640,368,2,person|skis,http://images.cocodataset.org/val2017/000000051712.jpg,coco1000_extension
+189775,000000189775.jpg,640,480,24,chair|person|tennis racket,http://images.cocodataset.org/val2017/000000189775.jpg,coco1000_extension
+226903,000000226903.jpg,640,480,21,bicycle|bottle|cake|dining table|knife|person|sandwich|spoon,http://images.cocodataset.org/val2017/000000226903.jpg,coco1000_extension
+518770,000000518770.jpg,500,375,22,chair|handbag|person|remote,http://images.cocodataset.org/val2017/000000518770.jpg,coco1000_extension
+191288,000000191288.jpg,600,400,2,horse|person,http://images.cocodataset.org/val2017/000000191288.jpg,coco1000_extension
+344614,000000344614.jpg,478,640,2,clock,http://images.cocodataset.org/val2017/000000344614.jpg,coco1000_extension
+523782,000000523782.jpg,640,480,3,bird|truck,http://images.cocodataset.org/val2017/000000523782.jpg,coco1000_extension
+524742,000000524742.jpg,640,480,1,train,http://images.cocodataset.org/val2017/000000524742.jpg,coco1000_extension
+370711,000000370711.jpg,640,480,14,person|umbrella,http://images.cocodataset.org/val2017/000000370711.jpg,coco1000_extension
+24567,000000024567.jpg,480,640,9,chair|hot dog|person,http://images.cocodataset.org/val2017/000000024567.jpg,coco1000_extension
+112298,000000112298.jpg,640,480,9,bottle|person|tennis racket,http://images.cocodataset.org/val2017/000000112298.jpg,coco1000_extension
+335450,000000335450.jpg,640,428,3,horse,http://images.cocodataset.org/val2017/000000335450.jpg,coco1000_extension
+295138,000000295138.jpg,640,423,4,bench|person|skateboard,http://images.cocodataset.org/val2017/000000295138.jpg,coco1000_extension
+355240,000000355240.jpg,640,360,4,car|couch|dog,http://images.cocodataset.org/val2017/000000355240.jpg,coco1000_extension
+88432,000000088432.jpg,480,640,5,fire hydrant|traffic light|truck,http://images.cocodataset.org/val2017/000000088432.jpg,coco1000_extension
+162092,000000162092.jpg,640,640,16,cake|chair|fork|person,http://images.cocodataset.org/val2017/000000162092.jpg,coco1000_extension
+140840,000000140840.jpg,500,281,19,kite|person|truck,http://images.cocodataset.org/val2017/000000140840.jpg,coco1000_extension
+359781,000000359781.jpg,640,494,1,giraffe,http://images.cocodataset.org/val2017/000000359781.jpg,coco1000_extension
+541773,000000541773.jpg,640,480,18,bottle|couch|dining table|person|wine glass,http://images.cocodataset.org/val2017/000000541773.jpg,coco1000_extension
+224675,000000224675.jpg,400,300,5,handbag|kite|person,http://images.cocodataset.org/val2017/000000224675.jpg,coco1000_extension
+557501,000000557501.jpg,640,480,2,sink,http://images.cocodataset.org/val2017/000000557501.jpg,coco1000_extension
+577862,000000577862.jpg,640,424,2,giraffe,http://images.cocodataset.org/val2017/000000577862.jpg,coco1000_extension
+256775,000000256775.jpg,640,480,8,kite|person,http://images.cocodataset.org/val2017/000000256775.jpg,coco1000_extension
+229858,000000229858.jpg,640,555,2,cow,http://images.cocodataset.org/val2017/000000229858.jpg,coco1000_extension
+192047,000000192047.jpg,480,640,1,sink,http://images.cocodataset.org/val2017/000000192047.jpg,coco1000_extension
+571313,000000571313.jpg,480,640,8,bed|chair|dining table|keyboard|microwave|mouse|refrigerator|tv,http://images.cocodataset.org/val2017/000000571313.jpg,coco1000_extension
+529148,000000529148.jpg,640,426,17,book|keyboard|laptop|mouse|person,http://images.cocodataset.org/val2017/000000529148.jpg,coco1000_extension
+233139,000000233139.jpg,640,427,2,clock,http://images.cocodataset.org/val2017/000000233139.jpg,coco1000_extension
+10707,000000010707.jpg,640,480,15,backpack|bottle|couch|cup|dining table|laptop|person|remote,http://images.cocodataset.org/val2017/000000010707.jpg,coco1000_extension
+91495,000000091495.jpg,640,447,4,baseball glove|person,http://images.cocodataset.org/val2017/000000091495.jpg,coco1000_extension
+4495,000000004495.jpg,500,375,3,chair|couch|tv,http://images.cocodataset.org/val2017/000000004495.jpg,coco1000_extension
+244592,000000244592.jpg,500,374,3,zebra,http://images.cocodataset.org/val2017/000000244592.jpg,coco1000_extension
+158548,000000158548.jpg,640,482,19,car|motorcycle|person|sheep|truck,http://images.cocodataset.org/val2017/000000158548.jpg,coco1000_extension
+173057,000000173057.jpg,480,640,17,bench|clock|person,http://images.cocodataset.org/val2017/000000173057.jpg,coco1000_extension
+477441,000000477441.jpg,640,480,4,airplane|person,http://images.cocodataset.org/val2017/000000477441.jpg,coco1000_extension
+60770,000000060770.jpg,500,375,2,zebra,http://images.cocodataset.org/val2017/000000060770.jpg,coco1000_extension
+513041,000000513041.jpg,640,480,10,chair|dining table|person|pizza|wine glass,http://images.cocodataset.org/val2017/000000513041.jpg,coco1000_extension
+226592,000000226592.jpg,640,480,1,bed,http://images.cocodataset.org/val2017/000000226592.jpg,coco1000_extension
+553776,000000553776.jpg,640,489,2,motorcycle|person,http://images.cocodataset.org/val2017/000000553776.jpg,coco1000_extension
+559543,000000559543.jpg,500,333,5,chair|couch|person|remote|vase,http://images.cocodataset.org/val2017/000000559543.jpg,coco1000_extension
+575970,000000575970.jpg,640,480,29,apple|banana|bowl|chair|cup|dining table|microwave|oven|potted plant|refrigerator|sink|vase,http://images.cocodataset.org/val2017/000000575970.jpg,coco1000_extension
+227765,000000227765.jpg,640,480,8,carrot|spoon,http://images.cocodataset.org/val2017/000000227765.jpg,coco1000_extension
+405279,000000405279.jpg,640,480,19,bench|kite|person,http://images.cocodataset.org/val2017/000000405279.jpg,coco1000_extension
+212573,000000212573.jpg,640,559,15,car|person|traffic light|umbrella,http://images.cocodataset.org/val2017/000000212573.jpg,coco1000_extension
+137294,000000137294.jpg,640,427,3,oven|person,http://images.cocodataset.org/val2017/000000137294.jpg,coco1000_extension
+349302,000000349302.jpg,640,427,2,giraffe,http://images.cocodataset.org/val2017/000000349302.jpg,coco1000_extension
+494913,000000494913.jpg,640,428,26,book|cat|chair|clock|couch|cup|dining table|fork|handbag|person|tv,http://images.cocodataset.org/val2017/000000494913.jpg,coco1000_extension
+42563,000000042563.jpg,624,640,1,train,http://images.cocodataset.org/val2017/000000042563.jpg,coco1000_extension
+276720,000000276720.jpg,640,480,5,car|truck,http://images.cocodataset.org/val2017/000000276720.jpg,coco1000_extension
+273551,000000273551.jpg,640,457,3,motorcycle,http://images.cocodataset.org/val2017/000000273551.jpg,coco1000_extension
+568439,000000568439.jpg,640,449,24,backpack|bus|handbag|person,http://images.cocodataset.org/val2017/000000568439.jpg,coco1000_extension
+57027,000000057027.jpg,640,426,4,elephant,http://images.cocodataset.org/val2017/000000057027.jpg,coco1000_extension
+515579,000000515579.jpg,500,332,7,baseball glove|bench|person|potted plant|sports ball,http://images.cocodataset.org/val2017/000000515579.jpg,coco1000_extension
+503755,000000503755.jpg,480,640,2,person|tennis racket,http://images.cocodataset.org/val2017/000000503755.jpg,coco1000_extension
+304291,000000304291.jpg,640,427,1,horse,http://images.cocodataset.org/val2017/000000304291.jpg,coco1000_extension
+117645,000000117645.jpg,640,480,2,person|snowboard,http://images.cocodataset.org/val2017/000000117645.jpg,coco1000_extension
+283318,000000283318.jpg,640,427,9,car|fire hydrant|person,http://images.cocodataset.org/val2017/000000283318.jpg,coco1000_extension
+509008,000000509008.jpg,640,434,1,bus,http://images.cocodataset.org/val2017/000000509008.jpg,coco1000_extension
+244181,000000244181.jpg,640,480,5,bottle|dining table|sandwich,http://images.cocodataset.org/val2017/000000244181.jpg,coco1000_extension
+566282,000000566282.jpg,640,426,10,car|person|sports ball|tie,http://images.cocodataset.org/val2017/000000566282.jpg,coco1000_extension
+245311,000000245311.jpg,612,612,17,bowl|donut|person,http://images.cocodataset.org/val2017/000000245311.jpg,coco1000_extension
+527215,000000527215.jpg,640,426,7,kite|person,http://images.cocodataset.org/val2017/000000527215.jpg,coco1000_extension
+289415,000000289415.jpg,640,428,9,person|pizza|spoon,http://images.cocodataset.org/val2017/000000289415.jpg,coco1000_extension
+201148,000000201148.jpg,640,359,4,person|traffic light|train,http://images.cocodataset.org/val2017/000000201148.jpg,coco1000_extension
+92053,000000092053.jpg,640,427,11,bowl|cup|dining table|donut|fork|knife|person|sandwich,http://images.cocodataset.org/val2017/000000092053.jpg,coco1000_extension
+143961,000000143961.jpg,640,356,20,backpack|dog|handbag|person|umbrella,http://images.cocodataset.org/val2017/000000143961.jpg,coco1000_extension
+472678,000000472678.jpg,640,480,14,book|bottle|cell phone|chair|keyboard|mouse|person|remote|tv,http://images.cocodataset.org/val2017/000000472678.jpg,coco1000_extension
+94336,000000094336.jpg,500,336,2,cat|sink,http://images.cocodataset.org/val2017/000000094336.jpg,coco1000_extension
+515828,000000515828.jpg,640,429,10,bottle|chair|person|tennis racket,http://images.cocodataset.org/val2017/000000515828.jpg,coco1000_extension
+224724,000000224724.jpg,480,640,9,car|handbag|motorcycle|person,http://images.cocodataset.org/val2017/000000224724.jpg,coco1000_extension
+441543,000000441543.jpg,640,403,16,backpack|cell phone|person|umbrella,http://images.cocodataset.org/val2017/000000441543.jpg,coco1000_extension
+546964,000000546964.jpg,640,478,28,chair|couch|dining table|person|tie|vase,http://images.cocodataset.org/val2017/000000546964.jpg,coco1000_extension
+98716,000000098716.jpg,640,359,5,bench|person,http://images.cocodataset.org/val2017/000000098716.jpg,coco1000_extension
+80274,000000080274.jpg,640,480,2,elephant,http://images.cocodataset.org/val2017/000000080274.jpg,coco1000_extension
+486573,000000486573.jpg,480,640,1,vase,http://images.cocodataset.org/val2017/000000486573.jpg,coco1000_extension
+17959,000000017959.jpg,640,427,24,backpack|kite|person,http://images.cocodataset.org/val2017/000000017959.jpg,coco1000_extension
+142971,000000142971.jpg,640,427,6,person|surfboard,http://images.cocodataset.org/val2017/000000142971.jpg,coco1000_extension
+235057,000000235057.jpg,480,640,1,giraffe,http://images.cocodataset.org/val2017/000000235057.jpg,coco1000_extension
+541952,000000541952.jpg,480,640,1,clock,http://images.cocodataset.org/val2017/000000541952.jpg,coco1000_extension
+66817,000000066817.jpg,612,612,11,bowl|carrot|dining table|fork|spoon,http://images.cocodataset.org/val2017/000000066817.jpg,coco1000_extension
+121497,000000121497.jpg,640,480,6,person,http://images.cocodataset.org/val2017/000000121497.jpg,coco1000_extension
+433515,000000433515.jpg,640,480,26,car|kite|person,http://images.cocodataset.org/val2017/000000433515.jpg,coco1000_extension
+495146,000000495146.jpg,640,480,16,boat|car|person|train|truck,http://images.cocodataset.org/val2017/000000495146.jpg,coco1000_extension
+206994,000000206994.jpg,640,427,2,bench|train,http://images.cocodataset.org/val2017/000000206994.jpg,coco1000_extension
+294162,000000294162.jpg,480,640,2,laptop|mouse,http://images.cocodataset.org/val2017/000000294162.jpg,coco1000_extension
+9400,000000009400.jpg,640,480,24,cup|keyboard|laptop|mouse|person,http://images.cocodataset.org/val2017/000000009400.jpg,coco1000_extension
+326627,000000326627.jpg,640,480,13,car|traffic light,http://images.cocodataset.org/val2017/000000326627.jpg,coco1000_extension
+483531,000000483531.jpg,640,480,1,bed,http://images.cocodataset.org/val2017/000000483531.jpg,coco1000_extension
+93965,000000093965.jpg,640,457,2,zebra,http://images.cocodataset.org/val2017/000000093965.jpg,coco1000_extension
+127494,000000127494.jpg,500,333,1,spoon,http://images.cocodataset.org/val2017/000000127494.jpg,coco1000_extension
+7278,000000007278.jpg,640,482,2,person|surfboard,http://images.cocodataset.org/val2017/000000007278.jpg,coco1000_extension
+132544,000000132544.jpg,640,427,15,baseball bat|baseball glove|car|person|sports ball|umbrella,http://images.cocodataset.org/val2017/000000132544.jpg,coco1000_extension
+451693,000000451693.jpg,640,480,1,pizza,http://images.cocodataset.org/val2017/000000451693.jpg,coco1000_extension
+529122,000000529122.jpg,500,281,19,donut|handbag|knife|person|tv,http://images.cocodataset.org/val2017/000000529122.jpg,coco1000_extension
+185473,000000185473.jpg,640,194,16,horse|person,http://images.cocodataset.org/val2017/000000185473.jpg,coco1000_extension
+478721,000000478721.jpg,640,480,13,car|kite|person|truck,http://images.cocodataset.org/val2017/000000478721.jpg,coco1000_extension
+326541,000000326541.jpg,640,360,9,car|cell phone|person,http://images.cocodataset.org/val2017/000000326541.jpg,coco1000_extension
+79651,000000079651.jpg,640,478,5,banana|bottle,http://images.cocodataset.org/val2017/000000079651.jpg,coco1000_extension
+484404,000000484404.jpg,640,480,16,bus|chair|person,http://images.cocodataset.org/val2017/000000484404.jpg,coco1000_extension
+304396,000000304396.jpg,425,640,2,clock,http://images.cocodataset.org/val2017/000000304396.jpg,coco1000_extension
+110638,000000110638.jpg,640,427,3,elephant,http://images.cocodataset.org/val2017/000000110638.jpg,coco1000_extension
+296969,000000296969.jpg,640,427,7,giraffe,http://images.cocodataset.org/val2017/000000296969.jpg,coco1000_extension
+34452,000000034452.jpg,640,480,3,frisbee|person,http://images.cocodataset.org/val2017/000000034452.jpg,coco1000_extension
+478136,000000478136.jpg,533,640,6,cake|dining table|donut,http://images.cocodataset.org/val2017/000000478136.jpg,coco1000_extension
+241326,000000241326.jpg,500,375,3,cat|couch|dog,http://images.cocodataset.org/val2017/000000241326.jpg,coco1000_extension
+189806,000000189806.jpg,500,400,4,cat|couch|dog,http://images.cocodataset.org/val2017/000000189806.jpg,coco1000_extension
+412240,000000412240.jpg,500,375,1,dog,http://images.cocodataset.org/val2017/000000412240.jpg,coco1000_extension
+379476,000000379476.jpg,485,640,23,chair|dining table|wine glass,http://images.cocodataset.org/val2017/000000379476.jpg,coco1000_extension
+99053,000000099053.jpg,640,559,8,bowl|broccoli|dining table|fork,http://images.cocodataset.org/val2017/000000099053.jpg,coco1000_extension
+401991,000000401991.jpg,640,379,4,bed|cat|dog,http://images.cocodataset.org/val2017/000000401991.jpg,coco1000_extension
+34071,000000034071.jpg,640,426,2,parking meter,http://images.cocodataset.org/val2017/000000034071.jpg,coco1000_extension
+294783,000000294783.jpg,640,428,20,backpack|bed|book|clock|couch|suitcase,http://images.cocodataset.org/val2017/000000294783.jpg,coco1000_extension
+293794,000000293794.jpg,428,640,23,banana|car|person|tie,http://images.cocodataset.org/val2017/000000293794.jpg,coco1000_extension
+546325,000000546325.jpg,480,640,3,couch|dining table|remote,http://images.cocodataset.org/val2017/000000546325.jpg,coco1000_extension
+581482,000000581482.jpg,640,427,2,clock,http://images.cocodataset.org/val2017/000000581482.jpg,coco1000_extension
+544306,000000544306.jpg,612,612,2,clock,http://images.cocodataset.org/val2017/000000544306.jpg,coco1000_extension
+394510,000000394510.jpg,640,480,6,bicycle|car|person|skateboard,http://images.cocodataset.org/val2017/000000394510.jpg,coco1000_extension
+435880,000000435880.jpg,640,480,7,bottle|bowl|couch|cup|laptop|refrigerator,http://images.cocodataset.org/val2017/000000435880.jpg,coco1000_extension
+323571,000000323571.jpg,478,640,5,car|traffic light|truck,http://images.cocodataset.org/val2017/000000323571.jpg,coco1000_extension
+77595,000000077595.jpg,640,425,3,bed|cat|laptop,http://images.cocodataset.org/val2017/000000077595.jpg,coco1000_extension
+512648,000000512648.jpg,640,427,1,cow,http://images.cocodataset.org/val2017/000000512648.jpg,coco1000_extension
+162543,000000162543.jpg,640,360,6,elephant|umbrella,http://images.cocodataset.org/val2017/000000162543.jpg,coco1000_extension
+200162,000000200162.jpg,640,425,9,traffic light|train,http://images.cocodataset.org/val2017/000000200162.jpg,coco1000_extension
+296284,000000296284.jpg,270,360,10,donut,http://images.cocodataset.org/val2017/000000296284.jpg,coco1000_extension
+547144,000000547144.jpg,640,480,8,keyboard|laptop|mouse|tv,http://images.cocodataset.org/val2017/000000547144.jpg,coco1000_extension
+253695,000000253695.jpg,427,640,2,baseball glove|person,http://images.cocodataset.org/val2017/000000253695.jpg,coco1000_extension
+14473,000000014473.jpg,640,427,8,person|train,http://images.cocodataset.org/val2017/000000014473.jpg,coco1000_extension
+163562,000000163562.jpg,500,333,2,frisbee|person,http://images.cocodataset.org/val2017/000000163562.jpg,coco1000_extension
+32901,000000032901.jpg,640,546,21,bottle|chair|cup|dining table|person|tie|wine glass,http://images.cocodataset.org/val2017/000000032901.jpg,coco1000_extension
+227482,000000227482.jpg,640,480,2,frisbee|person,http://images.cocodataset.org/val2017/000000227482.jpg,coco1000_extension
+231125,000000231125.jpg,375,500,15,donut|person,http://images.cocodataset.org/val2017/000000231125.jpg,coco1000_extension
+205282,000000205282.jpg,640,480,5,giraffe,http://images.cocodataset.org/val2017/000000205282.jpg,coco1000_extension
+482319,000000482319.jpg,640,480,12,book|chair|person|toothbrush,http://images.cocodataset.org/val2017/000000482319.jpg,coco1000_extension
+291490,000000291490.jpg,640,393,2,bed|cat,http://images.cocodataset.org/val2017/000000291490.jpg,coco1000_extension
+237071,000000237071.jpg,640,427,3,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000237071.jpg,coco1000_extension
+97988,000000097988.jpg,612,612,17,bench|bicycle|person,http://images.cocodataset.org/val2017/000000097988.jpg,coco1000_extension
+123480,000000123480.jpg,640,480,4,cell phone|person|toothbrush,http://images.cocodataset.org/val2017/000000123480.jpg,coco1000_extension
+326082,000000326082.jpg,640,426,17,banana|bowl|chair|clock|couch|dining table|laptop|remote|tv,http://images.cocodataset.org/val2017/000000326082.jpg,coco1000_extension
+559547,000000559547.jpg,640,491,6,baseball bat|baseball glove|person|sports ball,http://images.cocodataset.org/val2017/000000559547.jpg,coco1000_extension
+186449,000000186449.jpg,436,640,15,backpack|bench|handbag|person|suitcase,http://images.cocodataset.org/val2017/000000186449.jpg,coco1000_extension
+7991,000000007991.jpg,640,359,3,carrot|knife,http://images.cocodataset.org/val2017/000000007991.jpg,coco1000_extension
+190853,000000190853.jpg,383,640,2,banana|person,http://images.cocodataset.org/val2017/000000190853.jpg,coco1000_extension
+187990,000000187990.jpg,500,375,2,person|skateboard,http://images.cocodataset.org/val2017/000000187990.jpg,coco1000_extension
+20059,000000020059.jpg,640,427,2,zebra,http://images.cocodataset.org/val2017/000000020059.jpg,coco1000_extension
+274687,000000274687.jpg,640,480,3,bed|bicycle|chair,http://images.cocodataset.org/val2017/000000274687.jpg,coco1000_extension
+282046,000000282046.jpg,500,298,1,bench,http://images.cocodataset.org/val2017/000000282046.jpg,coco1000_extension
+397351,000000397351.jpg,640,426,12,car|carrot|person,http://images.cocodataset.org/val2017/000000397351.jpg,coco1000_extension
+147205,000000147205.jpg,640,437,2,cake|dining table,http://images.cocodataset.org/val2017/000000147205.jpg,coco1000_extension
+546011,000000546011.jpg,500,334,3,zebra,http://images.cocodataset.org/val2017/000000546011.jpg,coco1000_extension
+338986,000000338986.jpg,403,640,4,car|train,http://images.cocodataset.org/val2017/000000338986.jpg,coco1000_extension
+47571,000000047571.jpg,639,640,3,horse|person,http://images.cocodataset.org/val2017/000000047571.jpg,coco1000_extension
+279730,000000279730.jpg,500,333,7,cup|hot dog|person|sandwich,http://images.cocodataset.org/val2017/000000279730.jpg,coco1000_extension
+295478,000000295478.jpg,512,640,3,dog|handbag|person,http://images.cocodataset.org/val2017/000000295478.jpg,coco1000_extension
+207728,000000207728.jpg,640,373,2,sheep,http://images.cocodataset.org/val2017/000000207728.jpg,coco1000_extension
+468954,000000468954.jpg,640,427,7,couch|person|remote,http://images.cocodataset.org/val2017/000000468954.jpg,coco1000_extension
+450100,000000450100.jpg,480,640,4,cake|cup|dining table|spoon,http://images.cocodataset.org/val2017/000000450100.jpg,coco1000_extension
+157098,000000157098.jpg,500,333,3,giraffe,http://images.cocodataset.org/val2017/000000157098.jpg,coco1000_extension
+374545,000000374545.jpg,549,640,15,bicycle|kite|person,http://images.cocodataset.org/val2017/000000374545.jpg,coco1000_extension
+205105,000000205105.jpg,640,428,14,person|sports ball|tennis racket,http://images.cocodataset.org/val2017/000000205105.jpg,coco1000_extension
+442161,000000442161.jpg,500,375,8,handbag|person|wine glass,http://images.cocodataset.org/val2017/000000442161.jpg,coco1000_extension
+275058,000000275058.jpg,427,640,2,person|surfboard,http://images.cocodataset.org/val2017/000000275058.jpg,coco1000_extension
+276018,000000276018.jpg,416,640,12,person|teddy bear,http://images.cocodataset.org/val2017/000000276018.jpg,coco1000_extension
+120777,000000120777.jpg,500,375,3,cup|sandwich,http://images.cocodataset.org/val2017/000000120777.jpg,coco1000_extension
+270297,000000270297.jpg,640,427,3,person|train,http://images.cocodataset.org/val2017/000000270297.jpg,coco1000_extension
+113235,000000113235.jpg,640,480,4,car|carrot|horse|person,http://images.cocodataset.org/val2017/000000113235.jpg,coco1000_extension
+409475,000000409475.jpg,640,480,2,person,http://images.cocodataset.org/val2017/000000409475.jpg,coco1000_extension
+98520,000000098520.jpg,640,480,3,airplane|truck,http://images.cocodataset.org/val2017/000000098520.jpg,coco1000_extension
+571804,000000571804.jpg,640,426,9,bowl|sink|toilet|vase,http://images.cocodataset.org/val2017/000000571804.jpg,coco1000_extension
+386210,000000386210.jpg,478,640,15,apple|car|orange|potted plant,http://images.cocodataset.org/val2017/000000386210.jpg,coco1000_extension
+186042,000000186042.jpg,640,360,2,person|skis,http://images.cocodataset.org/val2017/000000186042.jpg,coco1000_extension
+38210,000000038210.jpg,428,640,3,person|skis,http://images.cocodataset.org/val2017/000000038210.jpg,coco1000_extension
+173799,000000173799.jpg,640,524,15,elephant|person,http://images.cocodataset.org/val2017/000000173799.jpg,coco1000_extension
+18380,000000018380.jpg,640,426,53,bowl|carrot|chair|cup|dining table|fork|knife|person|spoon|vase|wine glass,http://images.cocodataset.org/val2017/000000018380.jpg,coco1000_extension
+437514,000000437514.jpg,640,556,3,bench|person|potted plant,http://images.cocodataset.org/val2017/000000437514.jpg,coco1000_extension
+462031,000000462031.jpg,449,640,3,baseball bat|person,http://images.cocodataset.org/val2017/000000462031.jpg,coco1000_extension
+547854,000000547854.jpg,640,640,5,dining table|person|pizza,http://images.cocodataset.org/val2017/000000547854.jpg,coco1000_extension
+209757,000000209757.jpg,426,640,9,person|skateboard,http://images.cocodataset.org/val2017/000000209757.jpg,coco1000_extension
+149406,000000149406.jpg,640,638,1,motorcycle,http://images.cocodataset.org/val2017/000000149406.jpg,coco1000_extension
+190140,000000190140.jpg,640,428,4,boat|dog|person,http://images.cocodataset.org/val2017/000000190140.jpg,coco1000_extension
+47121,000000047121.jpg,640,480,4,bottle|bowl|cat|sink,http://images.cocodataset.org/val2017/000000047121.jpg,coco1000_extension
+62353,000000062353.jpg,640,480,9,giraffe|person,http://images.cocodataset.org/val2017/000000062353.jpg,coco1000_extension
+365385,000000365385.jpg,640,427,6,cup|sink|toothbrush,http://images.cocodataset.org/val2017/000000365385.jpg,coco1000_extension
+290163,000000290163.jpg,512,640,13,bowl|chair|dining table|person|pizza,http://images.cocodataset.org/val2017/000000290163.jpg,coco1000_extension
+185599,000000185599.jpg,640,480,6,apple|orange,http://images.cocodataset.org/val2017/000000185599.jpg,coco1000_extension
+15079,000000015079.jpg,640,424,3,knife|sandwich,http://images.cocodataset.org/val2017/000000015079.jpg,coco1000_extension
+554595,000000554595.jpg,500,376,2,person|surfboard,http://images.cocodataset.org/val2017/000000554595.jpg,coco1000_extension
+141671,000000141671.jpg,640,335,25,bench|horse|motorcycle|person,http://images.cocodataset.org/val2017/000000141671.jpg,coco1000_extension
+458768,000000458768.jpg,640,427,6,bench|couch|oven|sink,http://images.cocodataset.org/val2017/000000458768.jpg,coco1000_extension
+142324,000000142324.jpg,640,480,19,bicycle|handbag|motorcycle|person|truck,http://images.cocodataset.org/val2017/000000142324.jpg,coco1000_extension
+223747,000000223747.jpg,500,370,3,bed|cat|person,http://images.cocodataset.org/val2017/000000223747.jpg,coco1000_extension
+324818,000000324818.jpg,640,426,2,bird,http://images.cocodataset.org/val2017/000000324818.jpg,coco1000_extension
+538236,000000538236.jpg,640,428,14,handbag|hot dog|person,http://images.cocodataset.org/val2017/000000538236.jpg,coco1000_extension
+170670,000000170670.jpg,640,426,21,bottle|bowl|carrot|chair|cup|dining table|fork,http://images.cocodataset.org/val2017/000000170670.jpg,coco1000_extension
+109827,000000109827.jpg,640,424,1,teddy bear,http://images.cocodataset.org/val2017/000000109827.jpg,coco1000_extension
+188465,000000188465.jpg,640,454,23,baseball bat|baseball glove|chair|person,http://images.cocodataset.org/val2017/000000188465.jpg,coco1000_extension
+54605,000000054605.jpg,612,612,15,cake|chair|cup|dining table|fork|person,http://images.cocodataset.org/val2017/000000054605.jpg,coco1000_extension
+262440,000000262440.jpg,400,640,3,bottle|sink|toilet,http://images.cocodataset.org/val2017/000000262440.jpg,coco1000_extension
+328337,000000328337.jpg,640,427,2,frisbee|person,http://images.cocodataset.org/val2017/000000328337.jpg,coco1000_extension
+445675,000000445675.jpg,480,640,1,giraffe,http://images.cocodataset.org/val2017/000000445675.jpg,coco1000_extension
+283070,000000283070.jpg,640,428,5,orange,http://images.cocodataset.org/val2017/000000283070.jpg,coco1000_extension
+293200,000000293200.jpg,640,427,19,backpack|bottle|kite|person,http://images.cocodataset.org/val2017/000000293200.jpg,coco1000_extension
+414133,000000414133.jpg,640,480,7,car|fire hydrant|stop sign,http://images.cocodataset.org/val2017/000000414133.jpg,coco1000_extension
+557884,000000557884.jpg,480,640,1,vase,http://images.cocodataset.org/val2017/000000557884.jpg,coco1000_extension
+455624,000000455624.jpg,640,427,14,motorcycle|person,http://images.cocodataset.org/val2017/000000455624.jpg,coco1000_extension
+4395,000000004395.jpg,425,640,2,person|tie,http://images.cocodataset.org/val2017/000000004395.jpg,coco1000_extension
+459634,000000459634.jpg,640,533,3,motorcycle|person,http://images.cocodataset.org/val2017/000000459634.jpg,coco1000_extension
+138550,000000138550.jpg,640,428,4,chair|dining table|fire hydrant,http://images.cocodataset.org/val2017/000000138550.jpg,coco1000_extension
+221754,000000221754.jpg,640,427,15,car|person|traffic light|truck,http://images.cocodataset.org/val2017/000000221754.jpg,coco1000_extension
+430073,000000430073.jpg,640,480,27,chair|cow|cup|dining table|handbag|motorcycle|person,http://images.cocodataset.org/val2017/000000430073.jpg,coco1000_extension
+479155,000000479155.jpg,500,332,19,apple|dog|handbag|orange|person,http://images.cocodataset.org/val2017/000000479155.jpg,coco1000_extension
+80666,000000080666.jpg,640,640,2,bench|cat,http://images.cocodataset.org/val2017/000000080666.jpg,coco1000_extension
+377946,000000377946.jpg,640,426,20,bus|car|fork|knife|person|traffic light|truck,http://images.cocodataset.org/val2017/000000377946.jpg,coco1000_extension
+456496,000000456496.jpg,640,426,5,bird|handbag|person,http://images.cocodataset.org/val2017/000000456496.jpg,coco1000_extension
+19109,000000019109.jpg,640,428,27,handbag|motorcycle|person,http://images.cocodataset.org/val2017/000000019109.jpg,coco1000_extension
+252219,000000252219.jpg,640,428,7,cup|handbag|person|traffic light|umbrella,http://images.cocodataset.org/val2017/000000252219.jpg,coco1000_extension
+232348,000000232348.jpg,640,502,1,toaster,http://images.cocodataset.org/val2017/000000232348.jpg,coco1000_extension

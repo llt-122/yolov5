@@ -89,6 +89,26 @@ wheels/
 .installed.cfg
 *.egg
 
+# COCO1000 experiment repository -------------------------------------------------------------------------------
+# Keep the reproducible labels and manifest, but exclude downloaded images, caches, and source annotation archives.
+datasets/*
+!datasets/coco1000/
+datasets/coco1000/*
+!datasets/coco1000/labels/
+datasets/coco1000/labels/*
+!datasets/coco1000/labels/val/
+!datasets/coco1000/labels/val/*.txt
+!datasets/coco1000/manifest.csv
+
+# Keep the compact, curated experiment summary outside ignored runs/ and global image/JSON patterns.
+!experiment/
+!experiment/results/
+!experiment/results/*.json
+!experiment/results/*.png
+
+# Local source copy of the report; the repository version lives under docs/.
+/yolo.pdf
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template

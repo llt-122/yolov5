@@ -1,3 +1,11 @@
+# YOLOv5 COCO1000 Parameter Experiment
+
+This fork contains a reproducible single-factor and combined-parameter experiment using YOLOv5s and a fixed
+1,000-image subset of COCO 2017. See [EXPERIMENT.md](EXPERIMENT.md) for the dataset workflow, all nine experiment
+groups, measured results, reproduction commands, figures, and the detailed report.
+
+---
+
 <div align="center">
   <p>
     <a href="https://platform.ultralytics.com/?utm_source=github&utm_medium=referral&utm_campaign=platform_launch&utm_content=banner&utm_term=ultralytics_github" target="_blank">
